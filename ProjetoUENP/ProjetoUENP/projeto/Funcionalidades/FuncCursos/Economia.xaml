@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Ciências Econômicas" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Economia">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Bacharel em Ciências Econômicas deve apresentar um perfil centrado em sólida formação geral e com domínio técnico dos estudos relacionados com a formação teórico-quantitativa e teórico-prática, peculiares ao curso, além da visão histórica do pensamento econômico aplicada à realidade brasileira e ao contexto mundial, exigidos os seguintes pressupostos:
+&#10;I - uma base cultural ampla, que possibilite o entendimento das questões econômicas no seu contexto histórico-social;
+&#10;II - capacidade de tomada de decisões e de resolução de problemas numa realidade diversificada e em constante transformação;
+&#10;III - capacidade analítica, visão crítica e competência para adquirir novos conhecimentos; e
+&#10;IV - domínio das habilidades relativas à efetiva comunicação e expressão oral e escrita.
+&#10;Para tanto os cursos de graduação em Ciências Econômicas devem possibilitar a formação profissional que revele, pelo menos, as seguintes competências e habilidades:
+&#10;I - desenvolver raciocínios logicamente consistentes;
+&#10;II - ler e compreender textos econômicos;
+&#10;III - elaborar pareceres, relatórios, trabalhos e textos na área econômica;
+&#10;IV - utilizar adequadamente conceitos teóricos fundamentais da ciência econômica;
+&#10;V - utilizar o instrumental econômico para analisar situações históricas concretas;
+&#10;VI - utilizar formulações matemáticas e estatísticas na análise dos fenômenos socioeconômicos; e
+&#10;VII - diferenciar correntes teóricas a partir de distintas políticas econômicas."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Ciências Econômicas – Bacharelado, foi autorizado a funcionar pelo Decreto Federal nº 83.460, com implantação da primeira turma em 1980. Em 1983 foi reconhecido pelo Decreto Ministerial nº 380. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 6.463 de 16 de março de 2017, válida pelo prazo de 4(quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Ciências Econômicas visa à formação de um profissional liberal (Economista), com um perfil de executivo apto para exercer cargos de liderança junto às empresas públicas e privadas. Segundo a legislação vigente, Economista é designado profissão privativa daqueles que, além de possuírem curso de graduação em Ciências Econômicas, são registrados no Conselho Regional de Economia correspondente ao Estado onde exercerem suas atividades.
+&#10;O Economista possui capacidade de colocar a serviço das instituições um conjunto de conhecimentos científicos, acumulados e sistematizados ao longo de toda a história, tanto política como social e econômica. Portanto, Economista, não é somente aquele que faz orçamentos, planejamentos, análise de investimentos, etc, mas aquele profissional que exerce todas estas funções e é capaz de pensá-las dentro de um quadro geral de todo o processo de distribuição e produção da sociedade. Por isso o Economista é um profissional especial, distinguindo-se dos outros que utilizam técnicas similares. Por fim, ele realiza a reflexão (e consequente prática) de cada problema ligado a estes já especificados, distribuição e produção, a um quadro mais amplo, quer dizer, dentro do Sistema Econômico."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Inserem-se entre as atividades inerentes à profissão de Economista:
+&#10;a) assessoria, consultoria e pesquisa econômico-financeira;
+&#10;b) estudos de mercado e de viabilidade econômico-financeira;
+&#10;c) análise e elaboração de cenários econômicos, planejamento estratégico nas áreas social, econômica e financeira;
+&#10;d) estudo e análise de mercado financeiro e de capitais e derivativos;
+&#10;e) estudo de viabilidade e de mercado relacionado à economia da tecnologia, do conhecimento e da informação, da cultura e do turismo;
+&#10;f) produção e análise de informações estatísticas de natureza econômica e financeira, incluindo contas nacionais e índices de preços;
+&#10;g) planejamento, formulação, implementação, acompanhamento e avaliação econômico-financeira de política tributária e finanças públicas;
+&#10;h) assessoria, consultoria, formulação, análise e implementação de política econômica, fiscal, monetária, cambial e creditícia.
+&#10;i) planejamento, formulação, implementação, acompanhamento e avaliação de planos, programas, projetos de natureza econômico-financeira;
+&#10;j) Avaliação patrimonial econômico-financeira de empresas e avaliação econômica de bens intangíveis;
+&#10;k) perícia judicial e extrajudicial e assistência técnica, mediação e arbitragem, em matéria de natureza econômico-financeira, incluindo cálculos de liquidação;
+&#10;l) análise financeira de investimentos;
+&#10;m) estudo e análise para elaboração de orçamentos públicos e privados e avaliação de seus resultados;
+&#10;n) estudos de mercado, de viabilidade e de impacto econômico-social relacionados ao meio ambiente, à ecologia, ao desenvolvimento sustentável e aos recursos naturais;
+&#10;o) auditoria e fiscalização de natureza econômico-financeira;
+&#10;p) formulação, análise e implementação de estratégias empresariais e concorrenciais;
+&#10;q) economia e finanças internacionais, relações econômicas internacionais, aduanas e comércio exterior;
+&#10;r) certificação de renda de pessoas físicas e jurídicas e consultoria em finanças pessoais;
+&#10;s) regulação de serviços públicos e defesa da concorrência;
+&#10;t) estudos e cálculos atuariais nos âmbitos previdenciário e de seguros."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2013, sendo suas principais características:
+&#10;Curso: Graduação em Ciências Econômicas - Bacharelado
+&#10;Carga Horária: 3.000 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 06 (seis) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Ricardo Dalla Costa – dallacosta@uenp.edu.br 
+&#10;Vice Coordenadora: Érica Patente Nascimento - enascimento@uenp.edu.br 
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente: "/>
+                <Label Text="Fone: (43) 3904-1922"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>

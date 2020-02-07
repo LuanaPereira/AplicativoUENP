@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Enfermagem" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Enfermagem">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O curso de Graduação em Enfermagem – Bacharelado, busca desenvolver o profissional para intervenção eficiente na preservação da saúde, tratamento, reabilitação e controle das patologias, com ênfase na promoção de saúde, mantendo adequado padrão da bioética e ética profissional, conduta moral e respeito ao ser humano. Trata-se de um curso cujo perfil atende plenamente às exigências de uma formação fundamentada e estruturada nas Diretrizes Curriculares nº 3/2001 CNE/CES visando proporcionar a ampliação de possibilidades e potencialidades formativas do egresso."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Enfermagem – Bacharelado, foi autorizado a funcionar pelo Decreto Estadual nº 4.300, com implantação da primeira turma no segundo semestre de 2001. Em 2005 foi reconhecido pelo Decreto Estadual nº 5.569, sendo retificado pelo Decreto Estadual nº 6.940. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 2.652 de 14 de setembro de 2011, válida pelo prazo de 6(seis) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O curso de Enfermagem tem a finalidade de propiciar uma formação humana e generalista, considerando a cidadania e profissionalização, com enfoque voltado ao aprimoramento técnico-científico, ético-político, social, gerencial e educacional.
+&#10;Busca desenvolver aptidões e competências para o enfermeiro atuar nas diferentes fases evolutivas do ciclo de vida humana, nos diferentes cenários de ação profissional. Inter-relaciona o seu papel no processo de trabalho em enfermagem e com os demais profissionais da área de saúde. Privilegia a formação para o cuidado de enfermagem nas dimensões expressiva e instrumental, a partir da perspectiva de quem experiência as situações de saúde-doença. Enfoca o cuidado voltado às atividades, atitudes/sentimentos, a interação entre clientes e cuidadores, restabelecendo o equilíbrio, a conexão e estabilidade humanas.
+&#10;Partindo do ponto de vista educacional, onde a responsabilidade ética profissional deve ser prioridade, o perfil do enfermeiro é norteado como sendo um profissional:
+&#10;Capaz de assumir postura coerente com os princípios éticos e legais da profissão.
+&#10;Empreender a busca do conhecimento sendo agente facilitador de sua própria aprendizagem, oportunizando assim atualizar-se.
+&#10;Estabelecer relações democráticas com a clientela, a equipe de enfermagem e saúde.
+&#10;Compreender a política de saúde no contexto das políticas sociais, reconhecendo os perfis epidemiológicos das populações.
+&#10;Produzir saber que favoreça o desenvolvimento do corpo de conhecimento em enfermagem.
+&#10;Assumir o compromisso pela valorização profissional.
+&#10;Ter uma prática comprometida com as necessidades de saúde da população através de ações assistenciais, gerenciais, de pesquisa e de educação, uma vez que isto vai de encontro com as propostas curriculares do MEC.
+&#10;Tornar-se sujeito no processo de formação de recursos humanos.
+&#10;Internalizar a ciência e a arte do cuidar como instrumento de interpretação e de intervenção profissional.
+&#10;Desenvolver o cuidado de enfermagem a partir da perspectiva de quem experiência as situações saúde-doença.
+&#10;Quanto mais o profissional for levado a refletir sobre seu enraizamento espaço-temporal, mais consciência carregada de compromisso com sua realidade terá em seu agir. Sob essa ótica o curso de enfermagem tem como objetivo relevante à competência. Neste sentido o graduado deverá ser capaz de:
+&#10;Reconhecer e atuar nos diferentes cenários da prática profissional;
+&#10;Identificar as necessidades individuais e coletivas de saúde da população, seus condicionantes e determinantes, considerando os pressupostos dos modelos clínico e epidemiológico;
+&#10;Intervir no processo saúde/doença responsabilizando-se pela qualidade da assistência/cuidado de enfermagem ao ser humano em seus diferentes níveis de atenção à saúde, na perspectiva da integralidade da assistência;
+&#10;Prestar cuidados de enfermagem compatíveis com as diferentes necessidades apresentadas pelo indivíduo, pela família e pelos diferentes grupos da comunidade;
+&#10;Compatibilizar as características profissionais dos elementos da equipe de enfermagem às diferentes demandas dos usuários;
+&#10;Integrar as ações de enfermagem às ações multiprofissionais;
+&#10;Gerenciar o processo de trabalho em enfermagem em todos os âmbitos da atuação profissional;
+&#10;Reconhecer o processo de avaliação e o impacto das ações desenvolvidas;
+&#10;Planejar e implementar programas de formação e qualificação contínua dos trabalhadores de enfermagem
+&#10;Planejar e implementar programas de educação e promoção à saúde, considerando a especificidade dos diferentes grupos sociais e dos distintos processos de vida, saúde, trabalho e adoecimento;
+&#10;Desenvolver, participar, divulgar e utilizar pesquisas ou outras produções de conhecimento que objetivam a qualificação da prática profissional;
+&#10;Ter os códigos éticos, políticos e normativos da profissão como baliza da sua prática;
+&#10;Interferir na dinâmica de trabalho institucional, reconhecendo-se como agente desse processo;
+&#10;Participar dos movimentos de qualificação das práticas de saúde."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Assistência (estes profissionais podem prestar assistência de enfermagem na área hospitalar, em clínicas e outros serviços como, empresas, repartições públicas e estádios de futebol.)
+&#10;Gestão, nesta função se encontra: os gestores em nível estadual, municipal (secretários de saúde e coordenadores de programas), os gerentes dos serviços de enfermagem das unidades hospitalares, como por exemplo: Centro Cirúrgico, Unidade de Terapia Intensiva, Serviço de Hemodiálise, Pronto Socorro e demais unidades dos hospitais e outros serviços como, por exemplo, dos Centros e Unidades Básicas de Saúde e das Equipes da ESF – Estratégia Saúde da Família.
+&#10;Pode ainda o enfermeiro exercer funções como: diretor de hospitais e de Centros de Ciências da Saúde das Universidades.
+&#10;Este é apenas um demonstrativo do leque de campos em que o enfermeiro pode atuar, desenvolvendo diversas atividades.
+&#10;As atribuições do profissional enfermeiro são amparadas pela Lei do Exercício Profissional:
+&#10;
+&#10;É privativo do Enfermeiro:
+&#10;Direção do órgão de Enfermagem integrante da estrutura básica da instituição de saúde, pública, privada, e chefia de serviço e de unidade de enfermagem;
+&#10;Organização e direção dos serviços de Enfermagem e de suas atividades técnicas e auxiliares nas empresas prestadoras desses serviços;
+&#10;Planejamento, organização, execução e avaliação, dos serviços da assistência de enfermagem;
+&#10;Consultoria, auditoria, e emissão de parecer sobre matéria de enfermagem;
+&#10;Consulta de enfermagem;
+&#10;Prescrição da assistência de enfermagem;
+&#10;Cuidados diretos de enfermagem a pacientes graves com risco de vida;
+&#10;&#10;Cuidados de enfermagem de maior complexidade técnica e que exijam conhecimentos científicos adequados e capacidade de tomar decisões imediatas.
+&#10;
+&#10;Como integrante da equipe de saúde:
+&#10;Participação no planejamento, execução e avaliação da programação de saúde;
+&#10;Participação na elaboração, execução e avaliação dos planos assistenciais de saúde;
+&#10;Participação em projetos de construção ou reforma de unidades de internação;
+&#10;Prevenção e controle sistemático da infecção hospitalar, inclusive como membro das respectivas comissões;
+&#10;Participação na elaboração de medidas de prevenção e controle sistemático de danos que possam ser causados aos pacientes durante a assistência de Enfermagem;
+&#10;Participação na prevenção e controle das doenças transmissíveis em geral e nos programas de vigilância epidemiológica;
+&#10;Prestação de assistência de enfermagem à gestante, parturiente, puérpera e ao recém-nascido;
+&#10;Participação nos programas e nas atividades de assistência integral à saúde individual e de grupos específicos, particularmente daqueles prioritários e de alto risco;
+&#10;Acompanhamento da evolução e do trabalho de parto;
+&#10;Execução e assistência obstétrica em situação de emergência e execução do parto sem distorcia;
+&#10;Participação em programas e atividades de educação sanitária, visando a melhoria de saúde do indivíduo, da família e da população em geral;
+&#10;Participação nos programas de treinamento e aprimoramento de pessoal de saúde, particularmente nos programas de educação permanente;
+&#10;Participação nos programas de higiene e segurança do trabalho e de prevenção de acidentes e de doenças profissionais e do trabalho;
+&#10;Participação na elaboração e na operacionalização do sistema de referência e contra referência do paciente nos diferentes níveis de atenção à saúde;
+&#10;Participação no desenvolvimento de tecnologia apropriada à assistência de saúde;
+&#10;Participação em bancas examinadoras, em matérias específicas de enfermagem, nos concursos para provimento de cargo ou contratação de enfermeiro ou de pessoal Técnico em Enfermagem."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2011, sendo suas principais características:
+&#10;Curso: Graduação em Enfermagem – Bacharelado
+&#10;Carga Horária: 4.490 horas
+&#10;Turno: Integral.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 05 (cinco) e Máximo de 08 (oito) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenadora: Emiliana Cristina Melo - ecmelo@uenp.edu.br
+&#10;Vice Coordenador: Edivaldo Cremer - edivaldocremer@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente: "/>
+                <Label Text="Fone: (43) 3542-8008"/>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+           Title="Cursos"  x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Cursos">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="30">
+                <Button Text="ADMINISTRAÇÃO" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MudarAdministracao" IsEnabled="True"/>
+                <Button Text="AGRONOMIA" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MudarAgronomia" IsEnabled="True"/>
+                <Button Text="CIÊNCIAS BIOLÓGICAS" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MudarBiologia" IsEnabled="True"/>
+                <Button Text="CIÊNCIAS CONTÁBEIS" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MudarContabeis" IsEnabled="True"/>
+                <Button Text="CIÊNCIA DA COMPUTAÇÃO" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MudarComputacao" IsEnabled="True"/>
+                <Button Text="CIÊNCIAS ECONÔMICAS" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MudarEconomia" IsEnabled="True"/>
+                <Button Text="COMPUTAÇÃO" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarLicenciaturaComputacao" IsEnabled="True"/>
+                <Button Text="DIREITO" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarDireito" IsEnabled="True"/>
+                <Button Text="EDUCAÇÃO FÍSICA" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarEdFisica" IsEnabled="True"/>
+                <Button Text="ENFERMAGEM" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarEnfermagem" IsEnabled="True"/>
+                <Button Text="FILOSOFIA" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarFilosofia" IsEnabled="True"/>
+                <Button Text="FISIOTERAPIA" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarFisioterapia" IsEnabled="True"/>
+                <Button Text="GEOGRAFIA" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarGeografia" IsEnabled="True"/>
+                <Button Text="HISTÓRIA" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarHistoria" IsEnabled="True"/>
+                <Button Text="LETRAS" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarLetras" IsEnabled="True"/>
+                <Button Text="MATEMÁTICA" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarMatematica" IsEnabled="True"/>
+                <Button Text="MEDICINA VETERINÁRIA" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarVeterinaria" IsEnabled="True"/>
+                <Button Text="ODONTOLIGIA" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarOdontologia" IsEnabled="True"/>
+                <Button Text="PEDAGOGIA" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarPedagogia" IsEnabled="True"/>
+                <Button Text="SISTEMAS DE INFORMAÇÃO" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarSI" IsEnabled="True"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

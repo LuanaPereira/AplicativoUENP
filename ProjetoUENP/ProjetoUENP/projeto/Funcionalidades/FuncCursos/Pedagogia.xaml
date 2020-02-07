@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Pedagogia" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Pedagogia">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="CAMPUS CORNÉLIO PROCÓPIO" HorizontalOptions="Center"/>
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Curso de Licenciatura em Pedagogia – habilitação para Docência na Educação Infantil, anos iniciais do Ensino Fundamental, nas disciplinas pedagógicas do Ensino médio Modalidade Normal e para a Gestão em espaços escolares e não escolares."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Pedagogia – Licenciatura foi autorizado a funcionar pela Lei Estadual nº 4991, de 17 de dezembro de 1964; Lei Estadual 5217, de 21 de dezembro de 1965; Parecer CEE n° 05/66, de 14 de março de 1966; e Resolução CEE n° 09/66, de 14 de março de 1966. Com implantação da primeira turma em 1966. Em 1972 foi reconhecido pelo Decreto Federal nº 70.745 de 21 de junho de 1972. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual 5.224 de 4 de outubro de 2016, válida pelo prazo de 4(quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O pedagogo - profissional da educação que se pretende formar na UENP/CCP deve ter as seguintes características:
+&#10;1. Compreensão ampla e consciente da Educação e da prática educativa que ocorrem em diferentes âmbitos e modalidades.
+&#10;2. Conhecimento crítico, criativo e ético, sendo capaz de intervir na realidade, contribuindo para a transformação social.
+&#10;3. Comprometimento com a práxis educativa como função social, na qual deve exercer o papel de mediador entre o conhecimento elaborado e a apropriação e reelaboração pelo aluno.
+&#10;4. Conhecimento investigativo, buscando sempre alternativas através da pesquisa para melhoria do processo educacional.
+&#10;5. Coerente no exercício profissional com seu discurso teórico.
+&#10;6. Compreensão do processo educacional nas diversas áreas de educação formal e não formal.
+&#10;7. Articulação de pesquisa, ensino e extensão na produção do conhecimento e de novas práticas pedagógicas."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Pedagogo – profissional da educação – formado no curso de Licenciatura em Pedagogia poderá atuar como:
+&#10;1. Professor de Educação Infantil
+&#10;2. Professor nos anos iniciais do Ensino Fundamental;
+&#10;3. Professor das disciplinas pedagógicas - curso de formação de professores em nível médio Modalidade Normal.
+&#10;4. Gestor Escolar em instituições escolares e não escolares. 
+&#10;Além dessas áreas, o Pedagogo poderá também prestar Assessoria pedagógica a projetos, cursos, eventos na área educacional (formal ou não formal); realizar avaliação de projetos e cursos; assessorar a elaboração de planos de curso; assessorar empresas de turismo, museus e outras instituições na organização e planejamento de atividades pedagógicas."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2011, sendo suas principais características:
+&#10;Curso: Graduação em Pedagogia - Licenciatura
+&#10;Carga Horária: 3.200 horas
+&#10;Turno: Vespertino/ Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 80
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 07 (sete) anos.
+&#10;Modalidade: Presencial
+"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Flavio Rodrigo Furlanetto – frfurlanetto@uenp.edu.br
+&#10;Vice Coordenador: Luiz Antonio de Oliveira – luizantonio@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente: "/>
+                <Label Text="Fone: (43) 3904-1922"/>
+                <Label Text="CAMPUS JACAREZINHO" HorizontalOptions="Center"/>
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Curso de Licenciatura em Pedagogia – habilitação para Docência na Educação Infantil, anos iniciais do Ensino Fundamental, nas disciplinas pedagógicas do Ensino médio Modalidade Normal e para a Gestão em espaços escolares e não escolares."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Pedagogia – Licenciatura foi autorizado a funcionar pela Lei Estadual nº 4991, de 17 de dezembro de 1964; Lei Estadual 5217, de 21 de dezembro de 1965; Parecer CEE n° 05/66, de 14 de março de 1966; e Resolução CEE n° 09/66, de 14 de março de 1966. Com implantação da primeira turma em 1966. Em 1972 foi reconhecido pelo Decreto Federal nº 70.745 de 21 de junho de 1972. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual 5.224 de 4 de outubro de 2016, válida pelo prazo de 4(quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O pedagogo - profissional da educação que se pretende formar na UENP/CCP deve ter as seguintes características:
+&#10;1. Compreensão ampla e consciente da Educação e da prática educativa que ocorrem em diferentes âmbitos e modalidades.
+&#10;2. Conhecimento crítico, criativo e ético, sendo capaz de intervir na realidade, contribuindo para a transformação social.
+&#10;3. Comprometimento com a práxis educativa como função social, na qual deve exercer o papel de mediador entre o conhecimento elaborado e a apropriação e reelaboração pelo aluno.
+&#10;4. Conhecimento investigativo, buscando sempre alternativas através da pesquisa para melhoria do processo educacional.
+&#10;5. Coerente no exercício profissional com seu discurso teórico.
+&#10;6. Compreensão do processo educacional nas diversas áreas de educação formal e não formal.
+&#10;7. Articulação de pesquisa, ensino e extensão na produção do conhecimento e de novas práticas pedagógicas."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Pedagogo – profissional da educação – formado no curso de Licenciatura em Pedagogia poderá atuar como:
+&#10;1. Professor de Educação Infantil
+&#10;2. Professor nos anos iniciais do Ensino Fundamental;
+&#10;3. Professor das disciplinas pedagógicas - curso de formação de professores em nível médio Modalidade Normal.
+&#10;4. Gestor Escolar em instituições escolares e não escolares.
+&#10;Além dessas áreas, o Pedagogo poderá também prestar Assessoria pedagógica a projetos, cursos, eventos na área educacional (formal ou não formal); realizar avaliação de projetos e cursos; assessorar a elaboração de planos de curso; assessorar empresas de turismo, museus e outras instituições na organização e planejamento de atividades pedagógicas."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2011, sendo suas principais características:
+&#10;Curso: Graduação em Pedagogia - Licenciatura
+&#10;Carga Horária: 3.200 horas
+&#10;Turno: Vespertino/ Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 80
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 07 (sete) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Flavio Rodrigo Furlanetto – frfurlanetto@uenp.edu.br
+&#10;Vice Coordenador: Luiz Antonio de Oliveira – luizantonio@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente: "/>
+                <Label Text="Fone: (43) 3904-1922"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Moradias" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncMoradias.Moradias">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="30" VerticalOptions="CenterAndExpand">
+                <ActivityIndicator x:Name="activityIndicator1" IsRunning="{Binding IsBusy}" Color="#183883" VerticalOptions="StartAndExpand"/>
+                <Button Text="CAMPUS CORNÉLIO PROCÓPIO" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MoradiasCP" IsEnabled="True"/>
+                <Button Text="CAMPUS JACAREZINHO" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MoradiasJacare" IsEnabled="True"/>
+                <Button Text="CAMPUS LUIZ MENEGHEL" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MoradiasCLM" IsEnabled="True"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

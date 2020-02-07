@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Agronomia" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Agronomia">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O curso tem por objetivo desenvolver no educando o respeito à fauna e à flora; a conservação e recuperação da qualidade do solo, do ar e da água; o uso tecnológico racional, integrado e sustentável do ambiente; o emprego de raciocínio reflexivo, crítico e criativo e o atendimento às expectativas humanas e sociais no exercício das atividades profissionais."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Agronomia – Bacharelado, foi autorizado a funcionar pelo Decreto Federal nº 67.657, com implantação da primeira turma em 1971. Em 1974 foi reconhecido pelo Decreto Federal nº 74.620. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 5.455 de 04 de novembro de 2016, válida pelo prazo de 5(cinco) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Os desafios a serem enfrentados exigem um profissional capaz de contribuir efetivamente para a construção de um modelo de desenvolvimento agrário economicamente viável, ecologicamente sustentável, socialmente justo e culturalmente aceito.
+&#10;Desta forma, será imprescindível uma organização curricular que possibilite o seguinte perfil profissional:
+&#10;I. sólida formação científica e profissional geral que possibilite absorver e desenvolver tecnologia;
+&#10;II. capacidade crítica e criativa na identificação e resolução problemas, considerando seus aspectos políticos, econômicos, sociais, ambientais e culturais, com visão ética e humanística, em atendimento às demandas da sociedade;
+&#10;III. compreensão e tradução das necessidades de indivíduos, grupos sociais e comunidade, com relação aos problemas tecnológicos, socioeconômicos, gerenciais e organizativos, bem como utilização racional dos recursos disponíveis, além da conservação do equilíbrio do ambiente; e
+&#10;IV. capacidade de adaptação, de modo flexível, crítico criativo, às novas situações."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O profissional de Agronomia deverá ter sólida formação para atuar como administrador, produtor, planejador e executor de sistemas produtivos, extensionista, pesquisador e profissional de ensino, tanto em nível técnico como em nível superior.
+&#10;As áreas de atuação do agrônomo são amplas e diversificadas o que pode ser constatado no Artigo 7º e seus itens das Diretrizes Curriculares Nacionais para o curso de graduação em Engenharia Agronômica ou Agronomia."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2015, sendo suas principais características:
+&#10;Curso: Graduação em Agronomia - Bacharelado
+&#10;Carga Horária: 4.320 horas
+&#10;Turno: Integral.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 50
+&#10;Período de integralização: Mínimo de 05 (cinco) e Máximo de 08 (oito) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: José Celso Martins - jcelso@uenp.edu.br
+&#10;Vice Coordenador: Márcio Massashiko Hasegawa - hasegawa@uenp.edu.br
+&#10;Coordenador de Estágio:
+&#10;Representantes docentes:
+&#10;Representante discente: "/>
+                <Label Text="Fone: (43) 3542-8048"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

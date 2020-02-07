@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Geografia" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Geografia">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O curso de Licenciatura Plena em Geografia do Campus de Cornélio Procópio foi criado em 1966, desativado em 1981 e reativado em 1997. Oferece quarenta vagas por concurso vestibular, sendo curso noturno.
+&#10;A Geografia, no contexto atual, é percebida à luz do social, concebendo o espaço geográfico como um espaço socialmente produzido. Este espaço envolve a natureza na medida em que o homem, convivendo em sociedade, dela se apropria de acordo com seu estágio de desenvolvimento econômico e as particularidades do meio físico em que vive.
+&#10;Desta forma, o estudo do espaço geográfico engloba duas preocupações básicas: a compreensão da dinâmica da sociedade, que cria e organiza este espaço, e a compreensão da dinâmica da natureza, utilizada pelos grupos humanos em seus processos de transformação social.
+&#10;A Geografia procura recuperar-se de uma visão acrítica, descritiva, segmentada, comprometida apenas com a memorização de detalhes. O que se pretende com essa nova abordagem é que seja condizente com os compromissos que ela assume com a sociedade, procurando interpretá-la especialmente. Os elementos da natureza não estão só nos mapas e livros; eles podem ser observados e compreendidos no espaço vivido, reconstruído pela atividade humana.
+&#10;O curso de Geografia do Campus de Cornélio Procópio oferece sólida formação acadêmica e treinamento técnico, tanto na área social quanto natural ou do meio ambiente, em matérias que dão suporte à capacitação para atuação em planejamento regional e ambiental. Este treinamento é realizado através de atividades práticas de laboratório e de campo, principalmente nas disciplinas de Cartografia e Topografia, Geografia Agrária, Geografia Urbana e Industrial, Geomorfologia, Climatologia e Hidrografia, Biogeografia, Informática e Geografia, além de planejamento ambiental e regional e projetos de pesquisa em Geografia.
+&#10;Além das atividades regulares, o Colegiado de Geografia do Campus de Cornélio Procópio propicia oportunidades de treinamento e aperfeiçoamento aos alunos de Geografia, através do seu engajamento em programas de pesquisa conduzidos pelos docentes, ou eventuais projetos de assessoramento a órgãos públicos de planejamento. Outra forma do aluno se integrar profissionalmente é através de estágios que são oferecidos por empresas, ou ainda beneficiar-se de bolsas de iniciação científica ou de aperfeiçoamento oferecidas pelo CNPq, sob a orientação de um docente."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Geografia – Licenciatura, foi autorizado a funcionar pelo Decreto Estadual nº 5.217, com implantação da primeira turma em 1966. Em 1972 foi reconhecido pelo Decreto Federal nº 70.745 de 21 de junho de 1972. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 5.456 de 4 de novembro de 2016, válida pelo prazo de 4(quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O profissional (licenciado em Geografia) deverá ser capaz de:
+&#10;Interpretar criticamente a organização do espaço produzido pela relação dos homens entre si e com a natureza, nas suas diferentes configurações territoriais e ambientais;
+&#10;Analisar as relações especializadas da estrutura econômica, social e política das sociedades contemporâneas;
+&#10;Analisar e descrever as formas de apropriação da natureza pelos homens, avaliando suas consequências socioambientais;
+&#10;Desenvolver pesquisas e diagnosticar a respeito da produção e da organização do espaço geográfico;
+&#10;Compreender os elementos e processos concernentes ao meio natural e ao meio construído, com base nos fundamentos filosóficos, teóricos e metodológicos da Geografia;
+&#10;Dominar e aprimorar as abordagens científicas pertinentes ao processo de aplicação dos conhecimentos geográficos;
+&#10;Dominar as linhas gerais dos conhecimentos produzidos pela ciência geográfica, bem como da realidade educacional da qual vai atuar contribuindo para a qualificação permanente da educação em nosso país;
+&#10;Interpretar e analisar as questões relacionadas com o Ensino da Geografia, diante da Política Educacional Brasileira no momento atual;
+&#10;Refletir a questão pedagógica dentro do Ensino da Geografia, ou seja refletir o Ensino da Geografia não apenas com uma reflexão epistemológica mas também a sua relação com as questões pedagógicas;
+&#10;Compreender as categorias fundamentais de análise geográfica para saber o papel da Geografia no Ensino e construir um olhar geográfico da realidade e procurar entender o mundo atual e se instrumentalizar para viver como cidadão;
+&#10;Reconhecer as tarefas que a escola e a Geografia têm atualmente na formação dos indivíduos capacitando-os a viverem numa sociedade informatizada e globalizada, pensando cientificamente e assumindo atitudes éticas que valorizem os direitos humanos fundamentais;
+&#10;Compreender os elementos e processos concernentes ao meio natural e ou construído, com base nos fundamentos filosóficos, teóricos e metodológicos da Geografia;
+&#10;Dominar e aprimorar as abordagens científicas pertinentes ao processo de produção e aplicação do conhecimento geográfico."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="De acordo com a Diretriz do curso, o graduado em Geografia pode atuar como: geógrafo-pesquisador (técnico e planejador) e também como geógrafo-professor do ensino fundamental, médio e superior.
+&#10;Como este Curso é de Licenciatura em Geografia o mesmo prioriza a formação do profissional em educação (professor), no entanto, atualmente devido as exigências de se cumprir a legislação ambiental brasileira, muitos profissionais de Geografia poderão ser contratados para atuarem na área técnica como planejador, uma vez que a sua formação holística (visão global da natureza e da sociedade) torna este profissional apto para exercer esta nova função na sociedade contemporânea.
+&#10;Atualmente, há grande necessidade de professores em escolas públicas e particulares. O profissional em Geografia pode atuar em órgãos que realizam pesquisas para fins de planejamento e organização espacial, como também em institutos de pesquisas, de mercado, e de intercâmbio comercial. Encontra oportunidades nos campos de interpretação de problemas relativos aos recursos naturais; na organização de congressos, seminários e outros tipos de atividades que visem o desenvolvimento da Ciência Geográfica.
+&#10;O 'geógrafo-pesquisador' - técnico e planejador (conforme a diretriz do curso) em Geografia, pode atuar em diferentes órgãos ligados à preservação e/ou recuperação dos recursos naturais e, ainda, em centros e institutos de pesquisa. Já no setor privado pode atuar em empresas de assessoria e consultoria ambiental e, como autônomo, em serviços de perícia, avaliações de impactos ambientais e na confecção de cartas temáticas em laboratórios de geoprocessamento."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2012, sendo suas principais características:
+&#10;Curso: Graduação em Geografia - Licenciatura
+&#10;Carga Horária: 3.100 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 07 (sete) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenadora: Coaracy Eleutério da Luz - coaracyluz@uenp.edu.br
+&#10;Vice Coordenadora: Carla Holanda da Silva - carlaholanda@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente:"/>
+                <Label Text="Fone: (43) 3904-1922"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

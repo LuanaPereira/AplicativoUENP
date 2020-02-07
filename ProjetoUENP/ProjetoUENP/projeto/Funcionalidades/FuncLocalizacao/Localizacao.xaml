@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            Title="Localização"  x:Class="ProjetoUENP.projeto.Funcionalidades.FuncLocalizacao.Localizacao">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="30" VerticalOptions="CenterAndExpand">
+                <Button Text="CAMPUS CORNÉLIO PROCÓPIO" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="LocalizacaoCP" IsEnabled="True"/>
+                <Button Text="CAMPUS JACAREZINHO" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="LocalizacaoJacare" IsEnabled="True"/>
+                <Button Text="CAMPUS LUIZ MENEGHEL" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="LocalizacaoCLM" IsEnabled="True"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

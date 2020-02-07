@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Administração" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Administracao">
+    <ContentPage.Content>
+        <ScrollView Margin="10">
+            <StackLayout>
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O curso de Administração habilita em Administração de Empresas e Administração Rural. Prepara profissionais aptos a administrar não apenas grandes empresas, mas qualquer empreendimento, desde uma microempresa até uma moderna indústria ou uma empresa agropecuária. Procura formar um administrador que tenha consciência da realidade econômica global, e não apenas do ramo no qual exercerá a sua profissão.
+&#10;O curso de Administração tem disciplinas de Formação Básica e Instrumental (Psicologia, Sociologia, Processamento de Dados, Contabilidade Geral, Estatística etc.). Tem também disciplinas de Formação Profissional que são específicas do curso (Administração Mercadológica, Administração de Produção, Administração de Recursos Humanos, Organização, Sistemas e Métodos etc.). Tem ainda as Disciplinas Eletivas e Complementares Obrigatórias (Economia Agrícola, Legislação Social, Gestão da Qualidade Total, Direito Agrário, Contabilidade Agrícola etc.)"/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Administração – Bacharelado, foi autorizado a funcionar pelo Decreto Federal nº 83.460, com implantação da primeira turma em 1980. Em 1983 foi reconhecido pelo Decreto Ministerial nº 380. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 5.845 de 03 de janeiro de 2017, válida pelo prazo de 4(quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Como perfil desejado do formando, capacitação e aptidão para compreender as questões científicas, técnicas, sociais e econômicas da produção e de seu gerenciamento, observados níveis graduais do processo de tomada de decisão, bem como para desenvolver gerenciamento qualitativo e adequado, revelando a assimilação de novas informações e apresentando flexibilidade intelectual e adaptabilidade contextualizada no trato de situações diversas, presentes ou emergentes, nos vários segmentos do campo de atuação do administrador"/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O profissional de Administração tem suas atuações regulamentadas pela Lei 4.769/65, que dispôe, em seu artigo 2º, que a atividade profissional de Administrador será exercida, como profissão liberal ou não, mediante:
+&#10;'a) pareceres, relatórios, planos, projetos, arbitragens, laudos, assessoria em geral, chefia intermediária, direção superior;
+&#10;b') pesquisas, estudos, análise, interpretação, planejamento, implantação, coordenação e controle dos trabalhos nos campos da Administração, como administração e seleção de pessoal, organização e métodos, orçamentos, administração de material, administração financeira, administração mercadológica, administração de produção, relações industriais, bem como outros campos em que esses desdobrem ou aos quais sejam conexos'."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2013, sendo suas principais características:
+&#10;Curso: Graduação em Administração - Bacharelado
+&#10;Carga Horária: 3.000 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 100
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 06 (seis) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Denny Amari Nishitsuji – denny@uenp.edu.br
+&#10;Vice Coordenador: André Luiz Salvador – andresalvador@uenp.edu.br
+&#10;Coordenador de Estágio:  
+&#10;Representantes docentes: 
+&#10;Representante discente: "/>
+                <Label Text="Fone: (43) 3904-1922"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

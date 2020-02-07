@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="História" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Historia">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="É o campo do conhecimento que estuda o passado humano em seus vários aspectos: economia, sociedade, cultura, ideias e cotidiano. O historiador investiga e interpreta criticamente os acontecimentos, buscando resgatar a memória da humanidade e ampliar a compreensão da condição humana. Seu trabalho se baseia, principalmente, na pesquisa de documentos, como manuscritos, impressos, gravações, filmes, objetos, jornais e fotos. Depois de selecionar, classificar e relacionar os dados levantados em bibliotecas, arquivos, entrevistas ou estudos arqueológicos, ele data o fato ou o objeto, confere autenticidade e analisa sua importância e seu significado para a compreensão do encadeamento dos acontecimentos. Com licenciatura, o graduado está apto para dar aulas. (Fonte: Guia do Estudante)"/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em História – Licenciatura, foi autorizado a funcionar pelo Decreto Federal nº 47.612, com implantação da primeira turma em 1960. Em 1966 foi reconhecido pelo Decreto Lei Federal nº 4.546. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 5.228 de 4 de outubro de 2016, válida pelo prazo de 4(quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O graduando do curso de História deve demonstrar ser capaz de:
+&#10;Compreender o processo histórico no qual está inserido;
+&#10;Dialogar com as variadas correntes historiográficas;
+&#10;Analisar as diversas fontes historiográficas, considerando suas orientações teórico-metodológicas;
+&#10;Abordar tempo e espaços determinados conforme suas especificidades;
+&#10;Entender as linguagens culturais e seu significado dentro da formação da memória histórica.
+&#10;Compreender e aplicar os diversos conceitos que permeiam o conhecimento histórico;"/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="De acordo com as Diretrizes Curriculares Nacionais, o profissional graduado em História pode atuar em diversos campos. O principal deles é a escola e, nesse sentido, o curso proposto visa capacitar seus alunos para uma atuação coerente e responsável na educação básica.
+&#10;Embora não esteja aprovada ainda uma legislação específica que regulamente a profissão de historiador, sabemos que além do ensino, em seus diferentes níveis e modalidades, o profissional graduado em História pela UENP, estará também capacitado para atuação em diversas áreas de preservação da memória social e coletiva, tais como em museus, arquivos, centros de documentação, assessorias a entidades públicas e privadas nos setores artísticos, turísticos, entre outros."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2013, sendo suas principais características:
+&#10;Curso: Graduação em História - Licenciatura
+&#10;Carga Horária: 3.000 horas
+&#10;Turno: Vespertino/Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 80
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 06 (seis) anos.
+&#10;Modalidade: Presencial."/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Prof. Marcio Luiz Carreri - colegiadohistoria.cj@uenp.edu.br 
+&#10;Vice Coordenador:  Prof. Marcus José Takahashi Selonk - selonk@uenp.edu.br 
+&#10;Coordenador de Estágio: Profa. Marisa Noda
+&#10;Representantes docentes:
+&#10;Prof. Anderson Francisco Ribeiro
+&#10;Prof. Luis de Castro Campos Jr. 
+&#10;Prof. Roberto Massei
+&#10;Representante discente: 
+&#10;Sara dos Santos"/>
+                <Label Text="Fone: (43) 3527-1243"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

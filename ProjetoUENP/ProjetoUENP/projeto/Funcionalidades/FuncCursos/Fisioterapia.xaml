@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Fisioterapia" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Fisioterapia">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O curso de Graduação em Fisioterapia projeta como perfil de seu aluno, um fisioterapeuta com formação acadêmico-profissional generalista, humanista, crítica e reflexiva, capacitado a atuar em todos os níveis de atenção à saúde, com base no rigor científico e intelectual, visando sempre a formação, a ampliação e o enriquecimento cultural das pessoas para aumentar as possibilidades de adoção de um estilo de vida fisicamente ativo e saudável."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Fisioterapia – Bacharelado, foi autorizado a funcionar pelo Decreto Estadual nº 5.842, com implantação da primeira turma em 2003. Em 2007 foi reconhecido pelo Decreto Estadual nº 1.221. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 5.460 de 4 de novembro de 2016, válida pelo prazo de 4(quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O curso de Graduação em Fisioterapia pretende, com a elaboração deste projeto, que é um guia para o desenvolvimento das atividades curriculares, formar um trabalhador competente na área da Fisioterapia, que venha a suprir as expectativas que a sociedade espera desta categoria profissional.
+&#10;O curso de Graduação em Fisioterapia projeta como perfil de seu aluno, um fisioterapeuta com formação acadêmico-profissional generalista, humanista, crítica e reflexiva, capacitado a atuar em todos os níveis de atenção à saúde, com base no rigor científico e intelectual, visando sempre a formação, a ampliação e o enriquecimento cultural das pessoas para aumentar as possibilidades de adoção de um estilo de vida fisicamente ativo e saudável.
+&#10;Deve deter uma visão ampla e global, respeitando os princípios éticos/bioéticos e culturais do indivíduo e da coletividade. Será capaz de ter como objeto de estudo o movimento humano em todas as suas formas de expressão e potencialidades, quer nas alterações patológicas, cinético-funcionais, quer nas suas repercussões psíquicas e orgânicas, objetivando a preservar, desenvolver, restaurar a integridade de órgãos, sistemas e funções, desde a elaboração do diagnóstico físico e funcional, até a eleição e execução dos procedimentos fisioterapêuticos pertinentes a cada situação."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Atividade de saúde, regulamentada pelo Decreto-Lei 938/69, Lei 6.316/75, Resoluções do COFFITO, Decreto 9.640/84, Lei 8.856/94.
+&#10;
+&#10;Áreas de atuação
+&#10;
+&#10;Fisioterapia Clínica
+&#10;Ambulatórios
+&#10;Consultórios
+&#10;Centros de Reabilitação
+&#10;Hospitais e clínica
+&#10;Saúde Coletiva
+&#10;Ações Básicas de Saúde
+&#10;Fisioterapia do Trabalho
+&#10;Programas institucionais
+&#10;Vigilância Sanitária
+&#10;Educação
+&#10;Direção e coordenação de cursos
+&#10;Docência – níveis: secundário e superior
+&#10;Extensão
+&#10;Pesquisa
+&#10;Supervisão técnica e administrativa
+&#10;Outras
+&#10;Esporte
+&#10;Indústria de equipamentos de uso fisioterapêutico"/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2012, sendo suas principais características:
+&#10;Curso: Graduação em Fisioterapia – Bacharelado
+&#10;Carga Horária: 4.425 horas
+&#10;Turno: Integral
+&#10;Regime: Seriado Anual
+&#10;Vagas: 30
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 07 (sete) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenadora: Cláudia Roberta Brunnquell Sczepanski - claudiabrunquell@uenp.edu.br
+&#10;Vice Coordenadora: Berlis Ribeiro dos Santos Menossi - berlis@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente:"/>
+                <Label Text="Fone: (43) 3525-0498"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

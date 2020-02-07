@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+               xmlns:controls="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
+             xmlns:input="clr-namespace:Plugin.InputKit.Shared.Controls;assembly=Plugin.InputKit"
+             x:Class="ProjetoUENP.projeto.PaginaUsuarios.Alunos.AdicionarMateria" Title="Adicionar Matéria">
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout>
+            <input:CheckBox x:Name="Administracao" Text="Administração" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand" IsChecked="{Binding Check}"/>
+            <input:CheckBox x:Name="AlgebraLinear" Text="Algebra Linear" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="ArquiteturaComputadores" Text="Arquitetura de Computadores" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="BancoDeDados" Text="Banco de Dados" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Calculo1" Text="Cálculo I" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Calculo2" Text="Cálculo II" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Compiladores" Text="Compiladores" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="CompESociedade" Text="Computadores e Sociedade" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="ComputacaoGrafica" Text="Computação Gráfica" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="ComputacaoSimb" Text="Computação Simbólica e Númerica" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="ComunicacaoExp" Text="Comunicação e Expressão" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Empreendedorismo" Text="Empreendedorismo" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Eng1" Text="Engenharia de Software 1" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Eng2" Text="Engenharia de Software 2" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Eng3" Text="Engenharia de Software 3" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Estrutura" Text="Estrutura de Dados" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Fisica" Text="Física" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="InformaticaEd" Text="Informática e Educação" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="IA" Text="Inteligência Artificial" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="IHC" Text="Interface Homem Máquina" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="LinguagensProg" Text="Linguagens de Programação" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="MatDisc" Text="Matemática Discreta" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Metodologia" Text="Meotodolodia de Pesquisa" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="GerenciamentoProjeto" Text="Prática e Gerenciamento de Projeto" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="ProbEst" Text="Probabilidade e Estatística" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Prog1" Text="Programação 1" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Prog2" Text="Programação 2" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="ProjAnalise" Text="Projeto e Análise de Algoritmo" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Redes" Text="Redes" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Auditoria" Text="Segurança e Auditoria de Sistemas" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="SistemasDigitais" Text="Sistemas Digitais" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="SistemasDistribuidos" Text="Sistemas Distribuídos" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="SO" Text="Sistemas Operacionais" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="Sociologia" Text="Sociologia" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="TeoriaComp" Text="Teoria da Computação" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+            <input:CheckBox x:Name="TeoriaEPrat" Text="Teoria e Prática dos Sistemas de Informação" Type="Material" TextFontSize="20" HorizontalOptions="FillAndExpand"/>
+
+                
+   
+            <Button Text="Ok" HorizontalOptions="FillAndExpand" BackgroundColor="#183883" TextColor="White" Clicked="Materia"/>
+         
+        </StackLayout>
+        </ScrollView>
+
+    </ContentPage.Content>
+</ContentPage>

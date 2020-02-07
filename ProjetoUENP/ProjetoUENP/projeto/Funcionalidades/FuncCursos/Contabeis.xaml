@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Ciências Contábeis" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Contabeis">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Bacharel em Ciências Contábeis possuirá visão ampla, generalista da área, com capacidade para estudar e controlar o patrimônio das entidades, visando fortalecer informações sobre sua composição e suas variações aos usuários da contabilidade, bem como o assessoramento e o gerenciamento dos negócios.
+&#10;A Ciência Contábil, por estar inserida num ambiente econômico e social em transformação, requer novas formas de aplicações e aprimoramento conceituais e abordagens.
+&#10;Por isso, a reformulação do projeto pedagógico visa proporcionar ao aluno instrumentos e conhecimentos atuais e compatíveis com o momento histórico mundial globalizado e em constante mutação. O profissional da Contabilidade está intimamente ligado a toda essa evolução, pois ele faz parte do 'mundo dos negócios', é importante destacar que significa estar envolvido com assuntos econômicos, políticos e sociais, que causam grandes reflexos nos negócios. Desta forma, o Contador deve possuir conhecimentos diversos suficientes para que possa embasar suas decisões acertadamente."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Ciências Contábeis – Bacharelado, foi autorizado a funcionar pelo Decreto Federal nº 85.720. Em 1983 foi reconhecido pelo Decreto Ministerial nº 380. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº Decreto 5.225 de 4 de outubro de 2016, válida pelo prazo de 4(quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="No cenário empresarial contemporâneo em que se situam as perspectivas empresariais, as profissões precisam se adaptar às novas tecnologias, envolvendo-se intensivamente na implicação das atividades financeiras e empresariais.
+&#10;Panorama em que o egresso do Curso de Bacharelado em Ciências Contábeis deverá ser um profissional com habilidades técnicas e formação geral para atuar nas diversas empresas, sendo que uma delas poderá escolher pela organização de empresa própria de contabilidade; executar serviços terceirizados a outras empresas; prestar consultoria; atuar como contador em empresas privadas e públicas; atuar como consultor econômico-financeiro; ser controlador ou gerente administrativo-financeiro; trabalhar como auditor interno em empresas; trabalhar como auditor externo autônomo; prestar serviços como perito contábil na área Judiciária; prestar concursos públicos para áreas de interesse contábil, como Tribunais de Contas, fiscalização de tributos nas áreas federais, estaduais e municipais, ser professor de disciplinas contábeis, no ensino superior.
+&#10;Terá ainda competência profissional para compreender documentos e elaborar relatórios exigidos legalmente, utilizando-se de recursos de uma especialidade, como ferramenta eficiente no processo estratégico de apoio a decisões, para contribuir efetivamente no desenvolvimento da empresa. Terá plenas condições, também, para atuar de acordo com os padrões éticos e morais exigidos, produzindo e difundindo conhecimentos na área.
+&#10;Diz respeito ao perfil do contador formado no curso, um agregado de competências, habilidades e atitudes que viabilize aos agentes econômicos o pleno cumprimento da accountability
+                       junto à sociedade. Deverá exercer com ética e proficiência as atribuições que lhes são prescritas, através de legislação específica e do pleno conhecimento das práticas inerentes ao exercício da função, e que seja capaz de desenvolver, analisar e implantar sistemas de informação contábil e de controle gerencial nas organizações indiferentemente do porte ou segmento de atividade."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Atualmente, o setor de comércio e serviços da região de influência da UENP representa a grande demanda de profissionais da contabilidade, dada à diversificação dos ramos de atividades e a presença de empresas em crescimento que atendem às demandas geradas pela economia regional. Dentre as atividades econômicas desenvolvidas na região se destaca a Indústria de Alimentos, Comércio e Serviços, as quais oportunizam trabalho reservado ao profissional da contabilidade"/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2014, sendo suas principais características:
+&#10;Curso: Graduação em Ciências Contábeis - Bacharelado
+&#10;Carga Horária: 3.000 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 100
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 06 (seis) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenadora: Gesilene Ribeiro – gesilene@uenp.edu.br
+&#10;Vice Coordenador: Pedro Urquiza – pedrourquiza@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente: "/>
+                <Label Text="Fone: (43) 3904-1922"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

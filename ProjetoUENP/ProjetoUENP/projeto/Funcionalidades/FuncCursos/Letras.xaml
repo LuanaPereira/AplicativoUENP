@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Letras" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Letras">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="CAMPUS CORNÉLIO PROCÓPIO" HorizontalOptions="Center"/>
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Letras é a área em que se estuda a linguagem — falada e escrita — e, como todas as áreas do conhecimento precisam de uma linguagem para existir (é por isso que falamos de 'linguagem matemática', 'linguagem científica', etc.), a área de Letras compõe-se de um currículo cujas disciplinas são distribuídas pelos campos da Linguística, Literatura, Língua Estrangeira, Metodologia e Didática, entre outras.
+&#10;Então... quem faz Letras vai 'dar aula'?
+&#10;Não necessariamente. Você pode fazer um curso superior por muitos motivos, seja pelo prazer de conhecer mais profundamente determinada área do saber, seja pelo mercado de trabalho.
+&#10;O licenciado em Letras pode atuar como professor do Ensino Fundamental II e Ensino Médio, lecionando Língua Portuguesa, literaturas de língua portuguesa — Literatura Brasileira, Literatura Portuguesa, algumas literaturas africanas, etc. —, Língua Inglesa e literaturas de língua inglesa — Literatura Norte-Americana, Literatura Inglesa, Literatura Sul-Africana, etc.) — revisor de textos; tradutor; agente cultural. Além de poder atuar nos mais diversos setores, públicos e privados, que envolvam educação, cultura e comunicação."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Letras – Habilitação: Português/Inglês – Licenciatura, foi implantada a primeira turma em 1966. Em 1972 foi reconhecido pelo Decreto Federal nº 70.745. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 5.844 de 3 de janeiro de 2017, válida pelo prazo de 5(cinco) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O profissional formado pelo Graduação em Letras – Habilitação: Português/Inglês, da UENP-CCP, deverá adquirir competência para atuar de forma a desenvolver a capacidade de análise, criatividade, senso crítico, estético, expressivo e reflexivo acerca da Língua e Literaturas de Língua Portuguesa e da Língua e Literaturas de Língua Inglesa. Como docente da educação básica, poderá desenvolver pesquisas nos diversos campos de estudo das linguagens, assim como sobre métodos e estratégias de ensino de línguas e literaturas.
+&#10;O aluno egresso do curso deverá apresentar o seguinte perfil profissional:
+&#10;domínio teórico, descritivo e pragmático dos níveis fonológico, morfossintático, léxico e semântico da Língua Portuguesa e da Língua Inglesa;
+&#10;domínio de noções básicas das terminologias especializadas e das linguagens em geral;
+&#10;domínio de diferentes noções de gramática e (re)conhecimento das variedades linguísticas existentes, bem como dos vários níveis e registros da linguagem;
+&#10;capacidade de analisar, descrever e explicar, diacrônica e sincronicamente, a estrutura e funcionamento da Língua Portuguesa e da Língua Inglesa;
+&#10;capacidade de compreender os fatos da língua e de conduzir investigações de língua e linguagem, por meio da análise de diferentes teorias, bem como de sua aplicação a problemas de ensino e aprendizagem da Língua Portuguesa e da Língua Inglesa;
+&#10;domínio crítico de obras representativas da literatura dessas línguas;
+&#10;visão crítica das perspectivas teóricas adotadas nas investigações sincrônicas e diacrônicas do texto literário;
+&#10;domínio dos conteúdos básicos de história da literatura brasileira e de outras literaturas em Língua Portuguesa e em Língua Inglesa;
+&#10;capacidade de compreender criticamente a literatura estrangeira e a vernácula e de conduzir investigações no campo literário, por meio da análise de diferentes teorias, bem como de sua aplicação a problemas de ensino e aprendizagem da literatura;
+&#10;domínio de repertório de termos especializados por meio dos quais se pode discutir e transmitir a fundamentação do conhecimento em língua e literatura;
+&#10;capacidade de reconhecer e valorizar o repertório cultural regional, dimensionando sua aplicação ao ensino de línguas e literaturas;
+&#10;noções básicas de LIBRAS para efetiva comunicação entre surdos e ouvintes."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O graduado em Letras, licenciatura, tem o campo da Educação como seu principal nicho profissional. Porém, pelas características de sua própria formação, no âmbito das línguas e literaturas, pode atuar em funções de tradução, edição, elaboração e revisão de textos; no campo da comunicação social, das artes e da cultura de modo geral."/>
+                <Label Text="PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2013, sendo suas principais características:
+&#10;Curso: Graduação em Letras – Habilitação: Português/Inglês - Licenciatura
+&#10;Carga Horária: 3.600 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 06 (Seis) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Raquel Gamero - raquelgamero@uenp.edu.br
+&#10;Vice Coordenador: Letícia Jovelino Storto – leticiastorto@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente: "/>
+                <Label Text="Fone: (43) 3904-1922"/>
+                <Label Text="CAMPUS JACAREZINHO" HorizontalOptions="Center"/>
+                <Label Text="GRADUAÇÃO EM LETRAS: HABILITAÇÃO EM PORTUGUÊS/ESPANHOL E RESPECTIVAS LITERATURAS – Licenciatura" HorizontalOptions="Center" TextColor="Black"/>
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Letras: Habilitação em Português/Espanhol e respectivas Literaturas, forma professores para o ensino das línguas portuguesa e espanhola, além de proporcionar o estudo de suas respectivas literaturas. Os estudos focam a análise literária, a produção de textos, a tradução e a pesquisa sobre a evolução e o uso dos idiomas."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Letras: Habilitação em Português/Espanhol e respectivas Literaturas, foi autorizado a funcionar através da Resolução nº. 22/2009, do Conselho Universitário Provisório da UENP, com implantação da primeira turma em 2010. Em 2014 foi reconhecido pelo Decreto Estadual n°. 10.208, de 18 de fevereiro de 2014, válida pelo prazo de 4(quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O perfil do egresso em Letras deve ser definido a partir dos princípios que norteiam as atividades do Colegiado de Letras, nos campos do ensino, da pesquisa e da extensão, da verificação das carências regionais, e das demandas do mercado de trabalho. Para a sua formação, deve-se ainda observar os estágios de conhecimento na área da linguagem, das línguas e das literaturas nacional e estrangeira, bem como levar em conta as políticas públicas de educação que orientam o funcionamento do sistema de ensino. Todas estas peculiaridades precisam ser consideradas para que a formação do graduando corresponda perfeitamente ao contexto em que irá atuar.
+&#10;A preparação para o trabalho pedagógico, portanto, vai exigir concepções de ensino que ultrapassem o senso comum de que o graduado deva ter apenas o domínio de competências e de habilidades pertinentes. Deverá, sim, ser preparado para articular e integrar saberes para desempenhar suas funções com comprometimento ético e responsabilidade no campo das suas relações sociais e de trabalho, especialmente considerando as condições reais de existência de seus futuros alunos. Deverá, ainda, dominar os recursos didático-pedagógicos e tecnológicos que possam ser adequados às suas práticas, bem como ter habilidade investigativa para dar continuidade ao seu aprimoramento intelectual."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O graduado em Letras estará habilitado à docência no Ensino Fundamental II e Ensino Médio, nas áreas de Língua Portuguesa, Língua Estrangeira Moderna e Literaturas, de acordo com a dupla habilitação cursada.
+&#10;Como o campo de atuação específico e mais usual é o magistério, o profissional de Letras atua geralmente como professor da Educação Básica. Para o magistério do ensino superior, ele deverá buscar especializar-se por meio de pós-graduação stricto sensu (Mestrado, Doutorado e Pós-Doutorado).
+&#10;Pode, também, desenvolver uma atuação profissional como revisor de textos, editor, redator de livros técnico-didático-pedagógicos, crítico literário, tradutor, intérprete, roteirista, secretário, assessor cultural, entre outras atividades previstas nas Diretrizes Curriculares Nacionais, atuando em empresas públicas ou privadas."/>
+                <Label Text="PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2014, sendo suas principais características:
+&#10;Curso: Graduação em Letras: Habilitação em Português/Espanhol e respectivas Literaturas
+&#10;Carga Horária: 3.600 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 06 (seis) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenadora - Rosiney Aparecida Lopes do Vale - rosineyvale@uenp.edu.br ; coordenacao.letras@uenp.edu.br 
+&#10;Vice-Coordenadora - Patrícia Cristina de Oliveira Duarte – patriciaoliveira@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente: "/>
+                <Label Text="Fone: (43) 3527-1243"/>
+                <Label Text="GRADUAÇÃO EM LETRAS: HABILITAÇÃO EM PORTUGUÊS/INGLÊS E RESPECTIVAS LITERATURAS – Licenciatura" HorizontalOptions="Center" TextColor="Black"/>
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Letras: Habilitação em Português/Inglês e respectivas Literaturas, tem por objetivo preparar docentes para o desenvolvimento didático-pedagógico dos principais componentes curriculares no ensino de língua portuguesa, língua inglesa e as literaturas de língua inglesa nas séries finais do ensino fundamental e no ensino médio. O profissional formado em Letras Português/Inglês está habilitado também a exercer outras atividades além do magistério, tais como: tradução e versão, revisão de textos, assessoria técnica a empresas de comunicação, inclusive com a utilização das novas tecnologias e mídias eletrônicas."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Letras: Habilitação em Português/Inglês e respectivas Literaturas, foi autorizado a funcionar através Decreto Estadual nº. 23.829, com implantação da primeira turma em 1960. Em 1965 foi reconhecido pelo Decreto Federal nº 57.124. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 6.877 de 15 de maio de 2017, válida pelo prazo de 4(quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O perfil do egresso em Letras deve ser definido a partir dos princípios que norteiam as atividades do Colegiado de Letras, nos campos do ensino, da pesquisa e da extensão, da verificação das carências regionais, e das demandas do mercado de trabalho. Para a sua formação, deve-se ainda observar os estágios de conhecimento na área da linguagem, das línguas e das literaturas nacional e estrangeira, bem como levar em conta as políticas públicas de educação que orientam o funcionamento do sistema de ensino. Todas estas peculiaridades precisam ser consideradas para que a formação do graduando corresponda perfeitamente ao contexto em que irá atuar.
+&#10;A preparação para o trabalho pedagógico, portanto, vai exigir concepções de ensino que ultrapassem o senso comum de que o graduado deva ter apenas o domínio de competências e de habilidades pertinentes. Deverá, sim, ser preparado para articular e integrar saberes para desempenhar suas funções com comprometimento ético e responsabilidade no campo das suas relações sociais e de trabalho, especialmente considerando as condições reais de existência de seus futuros alunos. Deverá, ainda, dominar os recursos didático-pedagógicos e tecnológicos que possam ser adequados às suas práticas, bem como ter habilidade investigativa para dar continuidade ao seu aprimoramento intelectual."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O graduado em Letras estará habilitado à docência no Ensino Fundamental II e Ensino Médio, nas áreas de Língua Portuguesa, Língua Estrangeira Moderna e Literaturas, de acordo com a dupla habilitação cursada.
+&#10;Como o campo de atuação específico e mais usual é o magistério, o profissional de Letras atua geralmente como professor da Educação Básica. Para o magistério do ensino superior, ele deverá buscar especializar-se por meio de pós-graduação stricto sensu (Mestrado, Doutorado e Pós-Doutorado).
+&#10;Pode, também, desenvolver uma atuação profissional como revisor de textos, editor, redator de livros técnico-didático-pedagógicos, crítico literário, tradutor, intérprete, roteirista, secretário, assessor cultural, entre outras atividades previstas nas Diretrizes Curriculares Nacionais, atuando em empresas públicas ou privadas."/>
+                <Label Text="PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2014, sendo suas principais características:
+&#10;Curso: Graduação em Letras: Habilitação em Português/Inglês e respectivas Literaturas
+&#10;Carga Horária: 3.600 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 06 (seis) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenadora - Rosiney Aparecida Lopes do Vale - rosineyvale@uenp.edu.br ; coordenacao.letras@uenp.edu.br 
+&#10;Vice-Coordenadora - Patrícia Cristina de Oliveira Duarte – patriciaoliveira@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente: "/>
+                <Label Text="Fone: (43) 3527-1243"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

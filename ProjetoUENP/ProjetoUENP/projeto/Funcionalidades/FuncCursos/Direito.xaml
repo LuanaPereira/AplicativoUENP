@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            Title="Direito"  x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Direito">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="É a ciência que cuida da aplicação das normas jurídicas vigentes em um país, para organizar as relações entre indivíduos e grupos na sociedade. Zelar pela harmonia e pela correção das relações entre os cidadãos, as empresas e o poder público é a função do bacharel em direito. Para isso, ele analisa as disputas e os conflitos com base no que está estabelecido na Constituição e regulamentado pelas leis, defendendo os interesses do cliente em diversos campos. Resolve litígios que envolvem indivíduos ou empregados e empregadores. Há duas carreiras distintas para esse bacharel: ele pode atuar como advogado ou seguir a carreira jurídica, trabalhando como advogado público, juiz, promotor de Justiça ou delegado de polícia. Para ser advogado é preciso passar em exame da OAB. Já o candidato a juiz, promotor ou delegado de polícia tem de prestar concurso público. Para se tornar juiz, é necessário ter ainda dois anos de inscrição na OAB como advogado."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Direito – Bacharelado, foi autorizado a funcionar pelo Decreto Estadual nº 5.593, com implantação da primeira turma em 1970. Em 1974 foi reconhecido pelo Decreto Federal nº 74.030. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 2.657 de 14 de setembro de 2011, válida pelo prazo de 6(seis) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O curso de graduação em Direito tem por princípio assegurar o perfil do graduando, através de uma sólida formação geral, de base humanística e axiológica, que o levará a desenvolver capacidade de análise, domínio de conceitos e da terminologia jurídica, além de adequada argumentação, interpretação e valorização dos fenômenos jurídicos e sociais. Deverá ainda desenvolver uma postura reflexiva e de visão crítica que fomente a capacidade e a aptidão para a aprendizagem autônoma e dinâmica, no âmbito judicial ou extrajudicial, com a finalidade de atuar no exercício da Ciência do Direito, da prestação da justiça e do desenvolvimento da cidadania.
+&#10;Levando-se em conta a inserção local, regional e global, procura-se garantir ao graduado qualidade da formação profissional numa dúplice dimensão: qualidade formal, que diz respeito ao conteúdo curricular e qualidade social, que corresponde ao envolvimento crítico com os problemas da sociedade, buscando-se formar, sobretudo, condutas éticas associadas à responsabilidade social e profissional.
+&#10;Com a finalidade de difundir e aperfeiçoar a cultura técnico-científica na área do Direito, a Faculdade tem preparado os futuros profissionais para que possam difundir, através das mais diversas ocupações, os ideais de justiça e solidariedade, revelando um perfil que espelha os reflexos de um ensino comprometido com uma visão humanística."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Advocacia forense, Consultoria, Assessoria e Direção jurídica, Magistratura, Ministério Público da União e dos Estados, Defensoria Pública, Advocacias da União, dos Estados e Municípios, Magistério jurídico, Carreiras públicas cujo requisito seja o bacharelato em direito e outras atividades correlatas."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2010, sendo suas principais características:
+&#10;Curso: Graduação em Direito - Bacharelado
+&#10;Carga Horária: 3.830 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 70
+&#10;Período de integralização: Mínimo de 05 (cinco) e Máximo de 08 (oito) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Antônio José Saviani da Silva - saviani@uenp.edu.br
+&#10;Vice Coordenador: Soraya Saad Lopes - soraya@uenp.edu.br
+&#10;Coordenador de Estágio:
+&#10;Representantes docentes:
+&#10;Representante discente: "/>
+                <Label Text="Fone: (43) 3525-0862"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

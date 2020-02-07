@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjetoUENP.projeto.PaginaUsuarios.Alunos.PerfilAlunos" Title="Menu">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="Nome" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center" FontSize="36" FontAttributes="Bold"/>
+            <Label/>
+            <Label x:Name="Campus" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20" FontAttributes="Bold"/>
+            <Label x:Name="Curso" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20" FontAttributes="Bold"/>
+            <Label x:Name="Turno" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20" FontAttributes="Bold"/>
+            <Label x:Name="RA" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20" FontAttributes="Bold"/>
+            <Label x:Name="DataNascimento" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20" FontAttributes="Bold"/>
+            <Label x:Name="ListaMaterias" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20" FontAttributes="Bold"/>
+            
+        </StackLayout> 
+    </ContentPage.Content>
+</ContentPage>

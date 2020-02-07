@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            Title="Filosofia"  x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Filosofia">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A Graduação em Filosofia tem por objetivo formar profissionais que sendo licenciados poderão, na área de ensino, lecionar em escolas de Ensino Médio e na de Ensino Superior, devendo para este último possuir pós-graduação. Outro objetivo é promover na área de Pesquisa, o desenvolvimento de estudos acadêmicos sobre diversos temas nas áreas de lógica, filosofia da ciência, ética, estética, filosofia da arte ou da política, entre outros.
+&#10;O Licenciado em Filosofia deve demonstrar conhecimento tanto da história quanto dos problemas fundamentais da Filosofia e dominando, especialmente, as técnicas de análise de texto e de argumentação. O licenciado também deve estar habilitado para enfrentar com sucesso o desafio de despertar os adolescentes e jovens para a reflexão filosófica, bem como transmitir aos alunos da Educação Básica o legado da tradição e o gosto pelo pensamento inovador crítico e independente."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Filosofia – Licenciatura, foi autorizado a funcionar pelo Decreto Estadual nº 5.761, com implantação da primeira turma em 2007. Em 1983 foi reconhecido pelo Decreto Estadual nº 5.754. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 5.216 de 4 de outubro de 2016, válida pelo prazo de 5(cinco) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O licenciado na Graduação em Filosofia – Licenciatura do CCHE/CJ da UENP deve estar habilitado a dar sua contribuição ao ensino de filosofia na educação Básica, demonstrando conhecimento tanto da história quanto dos problemas fundamentais da Filosofia e dominando, especialmente, as técnicas de análise de texto e de argumentação. O licenciado também deve estar habilitado para enfrentar com sucesso o desafio de despertar os adolescentes e jovens para a reflexão filosófica, bem como transmitir aos alunos da Educação Básica o legado da tradição e o gosto pelo pensamento inovador crítico e independente. Deve possuir desenvoltura e domínio dos temas a serem abordados em sala de aula, primando, sempre pela formação de uma consciência crítica acerca dos eventos e fatos ocorridos no contexto em estudo. Conter familiaridade e habilidade com a prática pedagógica, aliadas ao interesse constante para com a evolução dos métodos de ensino e saber utilizarem as novas tecnologias em sala de aula, com segurança e domínio. Assim, o licenciado terá condições de apresentar à sua comunidade escolar como um intelectual que analisa os valores que orientam o pensar e agir dos homens.
+&#10;No decorrer do Curso será oportunizado ao futuro profissional da filosofia a possibilidade de adquirir competência didático-pedagógica e teórico-metodológica para o ensino da Filosofia e para a pesquisa em Filosofia, numa perspectiva dialético dialógica, sem apresentar a Filosofia como corpo doutrinário, ideológico, dogmático ou algo semelhante.
+&#10;Além do mais, os egressos poderão contribuir profissionalmente também em outras áreas, no debate interdisciplinar, nas assessorias culturais entre outros."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Atuar no magistério e ensino de Filosofia na Educação Básica na esfera pública e privada.
+&#10;Participar ativamente na promoção humana.
+&#10;Assessorias culturais.
+&#10;Promover e atualizar a pesquisa científica no campo filosófico."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2013, sendo suas principais características:
+&#10;Curso: Graduação em Filosofia – Licenciatura
+&#10;Carga Horária: 2.920 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 50
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 06 (seis) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Antônio Carlos de Souza - acsouza@uenp.edu.br
+&#10;Vice Coordenador: Guilherme Müller Junior - guilhermemuller@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente:"/>
+                <Label Text="Fone: (43) 3527-1243"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

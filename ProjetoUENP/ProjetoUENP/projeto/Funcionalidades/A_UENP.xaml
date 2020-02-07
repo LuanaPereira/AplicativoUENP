@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="A UENP" x:Class="ProjetoUENP.projeto.Funcionalidades.A_UENP">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="ÓRGÃO-ENTIDADE" TextColor="Black" HorizontalTextAlignment="Center"/>
+                <Label Text="Fonte: https://uenp.edu.br/institucional"/>
+                <Label Text="COMPETÊNCIAS" TextColor="Black" HorizontalTextAlignment="Center"/>
+                <Label Text="A Universidade Estadual do Norte do Paraná – UENP foi criada pela Lei nº 15.300, de 28 de setembro de 2006, e autorizada pelo Decreto Estadual no 3909/2008 com sede na cidade de Jacarezinho, Estado do Paraná, e campi nas cidades de Jacarezinho, Bandeirantes e Cornélio Procópio, reunindo as antigas instituições de ensino superior: Faculdade de Filosofia, Ciências e Letras de Jacarezinho - FAFIJA, Faculdade de Educação Física e Fisioterapia de Jacarezinho - FAEFIJA, Faculdade de Direito do Norte Pioneiro - FUNDINOPI, Fundação Faculdades Luiz Meneghel - FFALM e Faculdade de Filosofia, Ciências e Letras de Cornélio Procópio - FAFICOP.
+&#10;Com organização na forma multicampi, ela é uma autarquia estadual de regime especial descentralizada geograficamente, e goza de autonomia didático-científica, administrativa e de gestão financeira e patrimonial, regendo-se por seu estatuto, pelo seu regimento geral e pelas resoluções de seus conselhos, obedecidas as legislações federal e estadual.
+&#10;A UENP tem como missão atuar na produção do conhecimento científico em suas mais diversas formas e no processo de desenvolvimento regional e do Estado do Paraná, participando ativamente no trabalho de construção integral da sociedade e de seus cidadãos, buscando sempre a melhoria da qualidade de vida, promovendo a democracia, a cidadania e o desenvolvimento sócio-econômico, pela valorização e socialização do conhecimento e do saber historicamente construído e constituído.
+&#10;São oferecidos 25 cursos de graduação, nas mais diversas áreas de conhecimento, vários cursos de pós-graduação lato sensu e três cursos de pós-graduação stricto sensu: em Ciência Jurídica, Letras e em Agronomia.
+&#10;Seus vínculos com a sociedade são viscerais e sua própria criação dependeu dessa parceria. Por isso, a UENP pretende não apenas ir ao encontro das demandas da sociedade e com ela dialogar, mas antes, ser um elemento de construção e transformação da realidade regional.
+&#10;Ao produzir, discutir e difundir conhecimentos, a UENP buscará contribuir efetivamente para as transformações sociais, conforme aponta o seu Plano de Desenvolvimento Institucional.
+&#10;A UENP, nascida sob a égide da força cooperativa e da vontade da sociedade, acredita que essa integração, assentada em princípios éticos e em reflexões sobre os problemas sociais, é um elemento catalisador para sua institucionalização definitiva e compromissada.
+&#10;A Universidade está pronta para enfrentar os desafios que lhe serão apresentados. Ainda que o caminho a ser percorrido seja longo e o trabalho árduo, há muita determinação para a consecução dos seus objetivos. Para a superação desse momento histórico, a UENP, sempre pautada pela ética e pelo compromisso social, utilizará como ferramentas imprescindíveis o estabelecimento de prioridades, o planejamento, o trabalho coletivo e responsável e a avaliação constante dos seus resultados."/>
+                <Label Text="ENDEREÇO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Reitoria - UENP &#10;Gabinete, Pró-Reitorias e Órgãos de Suporte Administrativo e Técnico &#10;Av. Getúlio Vargas, 850. CEP 86400-000 &#10;Jacarezinho - Paraná - Brasil" HorizontalOptions="Center"/>
+                <Label Text="TELEFONE" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="+55 (43) 3525-3589"/>
+                <Label Text="HORÁRIO DE ATENDIMENTO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="9:00 às 17:00"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Matemática" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Matematica">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label HorizontalOptions="Center" Text="CAMPUS CORNÉLIO PROCÓPIO"/>
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O curso de Graduação em Matemática – Licenciatura, tem como objetivo proporcionar ao futuro licenciado uma formação básica em conteúdos matemáticos, bem como uma visão ampla e crítica dos problemas do processo de ensino e de aprendizagem desta disciplina.
+&#10;O curso tem carga horária de 3.060 horas de conteúdos curriculares de natureza científico-cultural, distribuídas em quatro anos.
+&#10;Procurando formar professores que assumam uma postura crítica, o curso também proporciona a oportunidade de fazer pesquisas em Educação Matemática e Tecnologias Educacionais, na área de Matemática, que serão apresentadas no trabalho de conclusão do curso.
+&#10;A matriz curricular foi elaborada para envolver o aluno durante todo o curso em atividades ligadas ao ensino. Com esta orientação, desenvolvem-se as disciplinas que revisam e aprofundam conteúdos de matemática do Ensino Fundamental e Médio e os projetos que proporcionam ao aluno a oportunidade de vivenciar experiências pedagógicas relacionadas com a sua futura prática docente."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Matemática – Licenciatura, foi autorizado a funcionar pelo Decreto Estadual nº 73.695, com implantação da primeira turma em 1974. Em 1977 foi reconhecido pelo Decreto Presidencial nº 79.844. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 6.289 de 1 de Março de 2017, válida pelo prazo de 4(quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Sendo o Curso de Graduação em Matemática – Licenciatura o que trabalha a formação de profissionais para a docência frente ao desenvolvimento dos valores científicos ligados à realidade brasileira, por meio da linguagem matemática e da resolução de problemas, pretende-se que o acadêmico graduado, neste curso, leve consigo o conhecimento dos diferentes aspectos desta linguagem que vão desde os conteúdos básicos, sua estrutura, sua história, tanto no seu estado atual como nas várias fases de evolução para que seja um agente transformador do meio no qual está inserido."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O curso forma professores para trabalharem no ensino fundamental – séries finais e médio, com espírito de pesquisa levando em consideração o conhecimento apreendido durante o curso e a riqueza sociocultural do contexto de atuação profissional, quer seja na carreira acadêmica, ao percorrerem o Mestrado e o Doutorado, quer seja na pesquisa de materiais e técnicas para apoiarem a sua atuação.
+&#10;Outra possibilidade de atuação profissional, caso o profissional de Matemática não se dedique a carreira acadêmica, é oferecer os seus conhecimentos atuando em equipes multidisciplinares de pesquisa e em institutos de pesquisas ligados a órgãos públicos como oInstituto Brasileiro de Geografia e Estatística (IBGE), no mercado da comunicação informatizada, no que tange aos conhecimentos visuais da linguagem dos signos e dos símbolos."/>
+                <Label Text="PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2012, sendo suas principais características:
+&#10;Curso: Graduação em Matemática – Licenciatura
+&#10;Carga Horária: 3.060 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 50
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 07 (sete) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Bárbara Nivalda Palharini Alvim Sousa – barbara.palharini@uenp.edu.br
+&#10;Vice Coordenador: Rudolph dos Santos Gomes Pereira – rudolphsantos@uenp.edu.br
+&#10;Coordenador de Estágio:
+&#10;Representantes docentes:
+&#10;Representante discente: "/>
+                <Label Text="Fone: (43) 3904-19222"/>
+                <Label Text="CAMPUS JACAREZINHO" HorizontalOptions="Center"/>
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="É a ciência que estuda as quantidades, o espaço, as relações abstratas e lógicas aplicadas aos símbolos. O matemático usa a lógica na formulação de teorias e no teste de hipóteses. Desenvolve aplicações dos cálculos na pesquisa pura e na ciência aplicada. Cria fórmulas e bancos de dados para interpretar e solucionar problemas de desenvolvimento de produtos, de produção e de logística em empresas. Esse profissional é bastante versátil e pode trabalhar nas áreas econômica, financeira, tecnológica, de física e pesquisa, entre outras. Quem faz licenciatura está habilitado a lecionar nos ensinos fundamental e médio. (Fonte: Guia do Estudante)"/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Matemática – Licenciatura, foi autorizado a funcionar pelo Decreto Federal nº 47.612, com implantação da primeira turma em 1960. Em 1965 foi reconhecido pelo Decreto Federal nº 57.124. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 5.213 de 4 de outubro de 2016, válida pelo prazo de 4(quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Licenciado em Matemática deverá ser um profissional educador que tenha sólida formação pedagógica e matemática, comprometido com a ética, com a responsabilidade social, ambiental, educacional e tecnológica, ser prático-reflexivo e produzir conhecimento pedagógico dos conteúdos; incorporar os recursos tecnológicos na sua prática; integrar ensino-pesquisa em sala de aula e ser co-responsável pela qualidade do ensino, com senso crítico necessário para compreender o mundo contemporâneo.
+&#10;Neste sentido nortearão, a formação inicial e continuada de professores, os princípios pedagógicos fundamentais do currículo escolar, como também produção de livros e de outros materiais didáticos, contribuindo dessa forma para a configuração de uma política voltada à melhoria do ensino de Matemática regional. Devem ter conhecimento das propostas atuais que indicam a resolução de problemas como ponto de partida da atividade Matemática e discutir, durante os seus processos de formação e com seus colegas de profissão os caminhos possíveis para fazer Matemática na sala de aula, com destaque para tendências em Educação Matemática tais como a Etnomatemática, a Modelagem Matemática, a História da Matemática, o uso das Tecnologias da Informação e Comunicação, os jogos e materiais didáticos pedagógicos e a resolução de problemas.
+&#10;O profissional formado em Licenciatura em Matemática deve:
+&#10;Possuir uma sólida formação e domínio em conteúdos específicos da Matemática.
+&#10;Ter consciência de como a ciência matemática vem sendo construída, suas origens, processos de criação e inserção em outras áreas do conhecimento.
+&#10;Ter conhecimento de metodologias de ensino-aprendizagem e materiais de apoio ao ensino para decidir, diante de cada conteúdo específico e cada classe particular de alunos, qual o melhor procedimento pedagógico para favorecer a aprendizagem de matemática, avaliando os resultados de suas ações por diferentes caminhos.
+&#10;Possuir domínio das teorias de ensino aprendizagem e tendências pedagógicas, adequando-as ao conteúdo específico.
+&#10;Apresentar bom domínio dos recursos tecnológicos como ferramenta para aprendizagem matemática, e capacidade de aprendizagem continuada na utilização de novas tecnologias.
+&#10;Ser capaz de refletir, criticar, propor e reavaliar novas propostas de trabalho, específicas de sua área, de modo a colaborar com o desenvolvimento do ensino e da aprendizagem multidisciplinar de Matemática.
+&#10;Discutir, analisar e avaliar livros textos, propostas curriculares, tópicos de ensino e materiais pedagógicos, de forma crítica.
+&#10;Ser capaz de trabalhar de forma integrada com os professores da sua área e de relacionar-se com outras áreas, no sentido de contribuir efetivamente com a proposta pedagógica de seu ambiente de trabalho.
+&#10;Estar em permanente contato com pesquisas e experiências em Educação Matemática, realimentando permanentemente a dinâmica do ensinar e do aprender.
+&#10;Reconhecer a importância de conhecer as referências culturais e sociais dos alunos e seus conhecimentos prévios informais e formais.
+&#10;Ter visão de seu papel social de educador e capacidade de se inserir em diversas realidades com sensibilidade para interpretar as ações dos educandos.
+&#10;Contribuir para que a aprendizagem da Matemática possa oferecer a formação cidadã aos indivíduos.
+&#10;Ter visão de que o conhecimento matemático pode e deve ser acessível a todos, e consciência de seu papel na superação dos preconceitos, traduzidos pela angústia, inércia ou rejeição, que muitas vezes ainda estão presentes no ensino-aprendizagem da disciplina."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O egresso de um curso de Licenciatura em Matemática atua na Educação Básica do Ensino Fundamental e Médio, nas áreas de ensino, ministrando aulas em escolas públicas da rede Estadual ou Municipais e em escolas privadas. O Licenciado em Matemática também pode compor equipes multidisciplinares de formação de docentes em projetos que envolvam Educação Especial, Educação de Jovens e Adultos e em projetos sociais, desenvolvendo trabalhos na área da Educação Matemática."/>
+                <Label Text="PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2016, sendo suas principais características:
+&#10;Curso: Graduação em Matemática - Licenciatura
+&#10;Carga Horária: 3.000 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 50
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 06 (seis) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Luciano Cornas – lcornas@uenp.edu.br
+&#10;Vice Coordenador: Anália Maria Dias de Góis – analiamariagoes@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente: "/>
+                <Label Text="Fone: (43) 3527-1243"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

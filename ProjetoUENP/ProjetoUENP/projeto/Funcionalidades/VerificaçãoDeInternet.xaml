@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjetoUENP.projeto.Funcionalidades.VerificaçãoDeInternet">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Verifique sua conexão com a rede!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" FontSize="Small"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

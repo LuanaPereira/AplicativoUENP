@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Licenciatura em Computação" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Computacao">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O curso de de Licenciatura em Computação forma o professor que leciona informática nas escolas das redes pública e particular dos ensinos fundamental e médio; na educação profissional, para a qualificação para o trabalho; nas empresas, onde a computação é base da formação para treinamento e educação corporativa. Ele é o responsável por compreender os processos de ensino e aprendizagem de computação para disseminar o conhecimento de informática em todos os níveis da sociedade. Muitas escolas, públicas e particulares, incorporam o ensino de computação no currículo, seja como matéria obrigatória, seja como curso extracurricular. O interesse cria uma demanda por profissionais que dominem tanto as ferramentas da computação quanto as práticas pedagógicas. A computação faz parte do contexto de diversos setores da sociedade. O trabalho do profissional educador de computação é essencial tanto em escolas quanto em grandes empresas, podendo atuar no desenvolvimento de aplicativos e softwares educacionais, manutenção e suporte técnico. "/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Computação – Licenciatura, foi autorizado a funcionar pela Deliberação nº 012/2018 – CEPE/UENP, com implantação da primeira turma em 2019."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O perfil do egresso do curso é definido pelas Diretrizes Curriculares Nacionais para os cursos de graduação na área da Computação, abrangendo o curso de licenciatura em Computação - Resolução CNE/CES No 05, de 16/11/16, como transcrito:
+possuam sólida formação em Ciência da Computação, Matemática e Educação visando ao ensino de Ciência da Computação nos níveis da Educação Básica e Técnico e suas modalidades e a formação de usuários da infraestrutura de software dos Computadores, nas organizações;
+adquiram capacidade de fazer uso da interdisciplinaridade e introduzir conceitos pedagógicos no desenvolvimento de Tecnologias Educacionais, produzindo uma interação humano-computador inteligente, visando ao ensino e à aprendizagem assistidos por computador, incluindo a Educação à Distância;
+&#10;III. desenvolvam capacidade de atuar como docentes, estimulando a atitude investigativa com visão crítica e reflexiva;
+sejam capazes de atuar no desenvolvimento de processos de orientação, motivação e estimulação da aprendizagem, com a seleção de plataformas computacionais adequadas às necessidades das organizações.
+&#10;Além de atenderem ao perfil específico, os egressos devem assegurar a formação de profissionais dotados:
+&#10;de conhecimento das questões sociais, profissionais, legais, éticas, políticas e humanísticas;
+&#10;da compreensão do impacto da computação e suas tecnologias na sociedade no que concerne ao atendimento e à antecipação estratégica das necessidades da sociedade;
+&#10;III. de visão crítica e criativa na identificação e resolução de problemascontribuindo para o desenvolvimento de sua área;
+&#10;da capacidade de atuar de forma empreendedora, abrangente e cooperativa no atendimento às demandas sociais da região onde atua, do Brasil e do mundo; 
+&#10;de utilizar racionalmente os recursos disponíveis de forma transdisciplinar;
+&#10;da compreensão das necessidades da contínua atualização e aprimoramento de suas competências e habilidades;
+&#10;VII. da capacidade de reconhecer a importância do pensamento computacional na vida cotidiana, como também sua aplicação em outros domínios e ser capaz de aplicá-lo em circunstâncias apropriadas; e
+&#10;VIII. da capacidade de atuar em um mundo de trabalho globalizado.
+&#10;O perfil do egresso toma como referência as seguintes características:
+&#10;crítico na identificação e criativo na resolução de problemas computacionais, contribuindo para o desenvolvimento de sua área e da sociedade;
+&#10;racional na utilização dos recursos computacionais disponíveis, de acordo com o contexto, com foco na eficiência e eficácia;
+&#10;III. sensível às especificidades dos diversos contextos educacionais e suas relações com as tecnologias de informação e comunicação ético e reflexivo em relação ao impacto da computação e suas tecnologias na sociedade e no ambiente;
+&#10;atento à importância da investigação científica integrando diversas áreas de conhecimento para promover a inovação;
+&#10;comprometido com a contínua atualização e o aprimoramento de suas competências e habilidades."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Licenciado em Computação poderá lecionar na área de Informática, no ensino fundamental e médio, profissionalizante ou em cursos livres e de treinamento de técnicos, além de atuar como responsável pela aplicação das Tecnologias da Informação e da Comunicação no âmbito escolar, planejando, orientando, acompanhando e supervisionando a aplicação das diferentes tecnologias interativas no contexto educacional.
+&#10;Além disso, o Licenciado em Computação poderá atuar na implantação de metodologias e infraestrutura computacional para o desenvolvimento de atividades ligadas à educação a distância, bem como no desenvolvimento de softwares educacionais, tais como ambientes virtuais de aprendizagem, jogos educacionais e outras ferramentas que possam ser aplicadas no ambiente escolar, como ferramentas de apoio aos processos de ensino e de aprendizagem.
+&#10;O graduado também pode trabalhar no planejamento e na implementação do projeto pedagógico de cursos de informática. Entre suas funções estão desenvolver e executar atividades com os alunos, decidindo os softwares que serão usados e a metodologia a ser empregada.
+&#10;Além disso, o graduado poderá continuar  sua formação acadêmica em cursos de Pós-Graduação  lato-sensu e/ou stricto-sensu, com o intuito  de  especializar-se profissionalmente  ou  ingressar  na  carreira  docente  e/ou  de pesquisa."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica será implantada em 2019, sendo suas principais características:
+                       &#10;Curso: Graduação em Computação – Licenciatura
+&#10;Carga Horária: 3.340 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 06 (seis) anos.&#10;Modalidade: Presencial
+ "/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Ricardo Gonçalves Coelho – rgcoelho@uenp.edu.br
+&#10;Vice Coordenador: Glauco Carlos Silva – glauco@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes: 
+&#10;Representante discente:"/>
+                <Label Text="Fone: (43) 3542-8008"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

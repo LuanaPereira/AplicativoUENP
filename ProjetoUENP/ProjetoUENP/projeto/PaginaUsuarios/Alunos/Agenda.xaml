@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjetoUENP.projeto.PaginaUsuarios.Alunos.Agenda" Title="Agenda">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout BackgroundColor="#183883" HeightRequest="100">
+                    <Label Text="Minhas Notas" FontSize="24" HorizontalOptions="CenterAndExpand" TextColor="White"/>
+                    <Label x:Name="DataHoje" HorizontalOptions="Start" VerticalOptions="End" TextColor="White"/>
+                </StackLayout>
+                <StackLayout x:Name="SLTarefas" Padding="10" Spacing="10">
+
+                </StackLayout>
+                <Button Text="Adicionar" HorizontalOptions="End" BackgroundColor="#183883" TextColor="White" Clicked="AddTarefa"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

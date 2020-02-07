@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Sistemas de Informação" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.SI">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Com habilitação em Bachareladoem Sistemas de Informação e Licenciatura em Computação o curso é realizado em período noturno. A habilitação em Bacharelado visa desenvolver profissionais que apresentem visão abrangente dos problemas organizacionais, com aptidão para enfrentar, em princípio, todos os problemas que possam vivenciar, encontrando soluções computacionais economicamente viáveis, seguras e confiáveis, eficazes e rápidas na informatização de empresas, tanto da iniciativa privada como da pública.
+Na Licenciatura o foco é o indivíduo, e não a máquina. Ele é o responsável por compreender os processos de ensino e aprendizagem de computação para disseminar o conhecimento de informática em todos os níveis da sociedade. O objetivo é formar educadores para o ensino de computação e informática das escolas das redes pública e particular dos ensinos fundamental e médio; da educação profissional, para a qualificação para o trabalho; das empresas, onde a computação é base da formação para treinamento e educação corporativa. As duas habilitações visam atender à necessidade imediata de informatização e absorção dos avanços dessa área nos diversos setores da sociedade. Para isso, o curso conta com um corpo docente qualificado e uma organização curricular que contém disciplinas que integram as áreas de sistemas de informação e educação."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Sistemas da Informação – Licenciatura/Bacharelado, foi autorizado a funcionar pelo Decreto Estadual nº 4.301, com implantação da primeira turma no 2º semestre de 2001. Em 2006 foi reconhecido pelo Decreto Estadual nº 7.164. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 2.651 de 14 de setembro de 2011, válida pelo prazo de 5(cinco) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="As Diretrizes Curriculares do MEC, para os cursos de computação estabelecem que a grade curricular dos cursos de computação deve possuir disciplinas de formação básica, formação tecnológica, formação humanística e formação complementar. A abrangência e a profundidade com que esses assuntos núcleos de formação são abordados é que diferenciam um curso do outro.
+&#10;A formação básica, para os cursos de bacharelado em SI, estuda os conceitos, os princípios básicos da Computação, os conceitos de máquina e algoritmo estão no núcleo dessa ciência, porém esses princípios não são estudados de forma tão profunda quanto nos Cursos de Ciência da Computação e Engenharia da Computação. Na Licenciatura, a pedagogia deve fazer parte da formação básica do aluno.
+&#10;A formação complementar (domínio da aplicação) dos cursos de Sistemas de Informação está centrada nas organizações. Os egressos deverão conhecer com profundidade a funcionalidade das organizações (empresas) para que possam aplicar (usar) a tecnologia da computação na solução dos problemas.
+&#10;A formação Tecnológica, para os cursos de Bacharelado em SI, é o estudo dos problemas cuja solução está na aplicação da ciência da computação. Essas soluções são normalmente encontradas como produtos de mercado (sistemas operacionais, compiladores, banco de dados, etc.). Na Licenciatura, o 'como ensinar' faz parte da formação tecnológica (aplicação da pedagogia).
+&#10;O núcleo comum nas ênfases de Bacharelado e Licenciatura desenvolve no profissional de Sistemas de Informação uma formação generalista e reconhecida capacidade de raciocínio lógico, de observação de interpretação e de análise de dados e informações, bem como capacidade de conhecer os aspectos essenciais da Informática, para identificação e resolução de problemas, considerando seus aspectos políticos, econômicos, sociais, legais e ambientais e culturais, com visão ética e humanística, em atendimento às demandas da sociedade. O aluno também deve ser capaz de atuar nas organizações para implantar, desenvolver, implementar e gerenciar infraestrutura de tecnologia de informação nos níveis organizacional e interorganizacional, além de intervir na realidade, de forma empreendedora e criativa, bem como de prestar serviços especializados na área de tecnologia de informação, ampliando assim os campos de atuação profissional.
+&#10;Desta forma, o egresso deverá ter habilidades para:
+&#10;a) desenvolver ações no âmbito de seus campos específicos de atuação através de elaboração de projetos de software bem estruturados e confiáveis;
+&#10;b) planejar, coordenar e executar projetos de sistemas de informação que envolva recursos de informática;
+&#10;c) elaborar orçamentos de projetos de sistemas computacionais de informação;
+&#10;d) definir, estruturar, testar e simular o comportamento de programas e sistemas de informação;
+&#10;e) verificar a viabilidade técnica e financeira para implantação de projetos e de sistemas de informação;
+&#10;f) fiscalizar, controlar e operar sistemas de processamento de dados que demandem acompanhamento especializado;
+&#10;g) oferecer suporte técnico e de consulta especializada em informática;
+&#10;h) realizar análises, avaliações, vistorias, pareceres, perícia, auditorias de projetos e de sistemas de informação;
+&#10;i) promover o ensino, pesquisa, experimentação e divulgação tecnológica; e
+&#10;j) exercer qualquer outra atividade que, por sua natureza, se insira no âmbito da profissão. "/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text=" O bacharel em Sistemas de Informação poderá atuar no mercado de trabalho:
+&#10;a) como colaborador integrante dos quadros funcionais ou diretivos das organizações;
+&#10;b) prestando serviços como consultor; ou
+&#10;c) empreendendo seu próprio negócio.
+&#10;O licenciado em computação poderá atuar como docente no ensino fundamental, médio e profissionalizante, da rede pública e particular.
+&#10;Além disso, o graduado poderá continuar sua formação acadêmica em cursos de Pós-Graduação lato-sensu e/ou stricto-sensu, com o intuito de especializar-se profissionalmente ou ingressar na carreira docente e/ou de pesquisa."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2011, sendo suas principais características:
+&#10;Curso: Graduação em Sistemas de Informação – Licenciatura/Bacharelado
+&#10;Carga Horária: 3.750 horas (Licenciatura/Bacharel)
+&#10;3.210 horas (Licenciatura em Computação)
+&#10;3.350 horas (Bacharel em Sistemas de Informação)
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 07 (sete) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Ricardo Gonçalves Coelho rgcoelho@uenp.edu.br
+&#10;Vice-Coordenador: Glauco Carlos Silva glauco@uenp.edu.br
+&#10;Coordenadora de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente:"/>
+                <Label Text="Fone do setor: (43) 3542-8014"/>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

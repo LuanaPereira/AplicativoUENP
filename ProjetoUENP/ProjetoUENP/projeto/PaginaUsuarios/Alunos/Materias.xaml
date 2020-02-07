@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjetoUENP.projeto.PaginaUsuarios.Alunos.Materias" Title="Matérias">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <StackLayout x:Name="ListaMateria">
+                    
+                </StackLayout>
+                <StackLayout>
+                    <Button Text="Adicionar" HorizontalOptions="EndAndExpand" BackgroundColor="#183883" TextColor="White" Clicked="AddMateria"/>
+
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+     </ContentPage.Content>
+</ContentPage>

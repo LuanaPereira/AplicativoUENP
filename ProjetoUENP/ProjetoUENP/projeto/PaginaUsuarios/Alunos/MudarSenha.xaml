@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjetoUENP.projeto.PaginaUsuarios.Alunos.MudarSenha" Title="Alterar Senha">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Placeholder="Senha Atual" IsPassword="True" x:Name="Senha" TextColor="#183883"/>
+            <Entry Placeholder="Nova Senha" IsPassword="True" x:Name="NovaSenha" TextColor="#183883"/>
+            <Entry Placeholder="Confirmar Nova Senha" IsPassword="True" x:Name="ConfNovaSenha" TextColor="#183883"/>
+            <Button Text="ATUALIZAR" TextColor="White" BackgroundColor="#183883" Clicked="FazerCadastro"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

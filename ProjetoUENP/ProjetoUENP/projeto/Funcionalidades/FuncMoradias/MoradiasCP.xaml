@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Moradias Cornélio Procópio" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncMoradias.MoradiasCP">
+    <ContentPage.Content>
+        <ListView  x:Name="ListaMoradias" RowHeight="70" Margin="10">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell Tapped="Chamar">
+                        <StackLayout Orientation="Horizontal" >
+                            <StackLayout HorizontalOptions="StartAndExpand">
+                                <Label Text="{Binding Nome}" TextColor="Black" FontAttributes="Bold"/>
+                                <Label Text="{Binding Endereco}" TextColor="#183883"/>
+                                <Label Text="{Binding Telefone}" TextColor="#183883"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>

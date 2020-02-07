@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.ProjetoUENP" android:installLocation="internalOnly">
+	<uses-sdk android:minSdkVersion="18" android:targetSdkVersion="26" />
+	<application android:label="UENP" android:icon="@drawable/Logo">
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyB6WKGqd9xPMWFKN-TeuGTe84zP-ieXqVE" />
+	</application>
+</manifest>

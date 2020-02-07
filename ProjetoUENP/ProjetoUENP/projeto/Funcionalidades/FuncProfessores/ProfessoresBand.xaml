@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Professores Luiz Meneghel" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncProfessores.ProfessoresBand">
+    <ContentPage.Content>
+        <ListView  x:Name="ListaProfessores" RowHeight="70" Margin="10" SelectionMode="None">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="{Binding Nome}" TextColor="Black" FontAttributes="Bold"/>
+                            <Label Text="{Binding Email}" TextColor="#183883" />
+                            <Label Text="{Binding Lattes}" TextColor="#183883" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Medicina Veterinária" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Veterinaria">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Medicina Veterinária - Bacharelado tem o ser humano como foco de seu maior interesse. Formar profissionais competentes e com ampla cultura geral, capazes de primar pelas mais adequadas técnicas nos diferentes campos da Medicina Veterinária, e/ou tomar decisões realistas e engajadas com as necessidades sociais, caracterizando o bem estar humano e social como objetivo principal do processo educativo.
+&#10;Neste contexto, não basta ensinar técnicas e métodos. É fundamental educar, preparando o indivíduo para interpretar carências sociais e promover ações de correção das distorções geradas pelas novas tendências econômicas e políticas do mundo atual. O compromisso do ensino está em preparar pessoas para atuarem frente às situações com as quais irão defrontar-se no futuro, com base no conhecimento existente."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Medicina Veterinária – Bacharelado, foi autorizado a funcionar pelo Decreto Estadual nº 740, com implantação da primeira turma no primeiro semestre de 2000. Em 2005 foi reconhecido pelo Decreto Estadual nº 4.318. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 5.850 de 3 de janeiro de 2017, válida pelo prazo de 5(cinco) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Médico Veterinário formado pela UENP deve ser um profissional com formação generalista, humanista, crítica e reflexiva, apto a compreender e traduzir as necessidades de indivíduos, grupos sociais e comunidades, com relação às atividades inerentes ao exercício profissional, no âmbito de seus campos específicos de atuação em saúde animal e clínica veterinária; saneamento ambiental e medicina veterinária preventiva, saúde pública e inspeção e tecnologia de produtos de origem animal; zootecnia, produção e reprodução animal, ecologia e proteção ao meio ambiente.
+&#10;Deve possuir reconhecida capacidade de raciocínio lógico, de observação, de interpretação e de análise de dados e informações, bem como ser conhecedor dos aspectos essenciais da Medicina Veterinária, para identificação e resolução de problemas, considerando seus aspectos políticos, econômicos, sociais, ambientais e culturais, com visão ética e humanística, em atendimento às demandas da sociedade."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text=" O bacharel em Sistemas de Informação poderá atuar no mercado de trabalho:O Médico Veterinário formado deverá ter conhecimento teórico e habilidades para atuar nas seguintes áreas: de clínica e cirurgia dos animais; de inspeção, fiscalização e tecnologia de produtos de origem animal; de reprodução animal; de saneamento, medicina veterinária preventiva, saúde pública; de produção animal; regência de cadeiras ou disciplinas Médico-Veterinárias, bem como direção das respectivas seções e laboratórios; realizar perícias, elaborar e interpretar laudos técnicos em todos os campos de conhecimento da Medicina Veterinária; assessoria técnica aos diversos órgãos da administração pública federal, no país e no exterior, no que se refere a assuntos relativos à produção e à indústria animal; de ecologia e proteção ao meio ambiente; atividade de extensão, administração, marketing e comércio relacionado aos animais.
+&#10;A formação acadêmica terá direcionamento nas ações para habilitar o profissional egresso a construir atitudes de sensibilidade e compromisso social, ao mesmo tempo em que lhes provê sólida formação científica e profissional geral que os capacite a absorver e desenvolver tecnologias. Neste contexto, tanto o aspecto do progresso social quanto da competência científica e tecnológica, permitem ao profissional uma atuação crítica e criativa gerando reconhecimento e tomada de decisões com relação às necessidades dos indivíduos, grupos sociais e comunidade."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2015, sendo suas principais características:
+&#10;Curso: Graduação em Medicina Veterinária - Bacharelado
+&#10;Carga Horária: 4.770 horas
+&#10;Turno: Integral.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 50
+&#10;Período de integralização: Mínimo de 05 (cinco) e Máximo de 08 (oito) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenadora: Erika Cosendey Toledo de Mello Peixoto - emellopeixoto@uenp.edu.br
+&#10;Vice Coordenador: Flávio Haragushiku Otomura - otomuraflavio@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes Docentes:
+&#10;Representante Discente: "/>
+                <Label Text="Fone do setor: (43) 3542-8014"/>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pag="clr-namespace:ProjetoUENP.projeto.PaginaUsuarios.Alunos"
+             x:Class="ProjetoUENP.projeto.PaginaUsuarios.Alunos.MenuAlunos" Title="Menu">
+    <MasterDetailPage.Master>
+        <ContentPage Title="Menu">
+            <StackLayout>
+                <Button Text="Editar Perfil" BackgroundColor="Transparent" TextColor="#183883" Clicked="MudarPerfil"/>
+                <Button Text="Agenda" BackgroundColor="Transparent" TextColor="#183883" Clicked="MudarAgenda"/>
+                <Button Text="Calendário" BackgroundColor="Transparent" TextColor="#183883" Clicked="MudarCalendario"/>
+                <Button Text="Horário" BackgroundColor="Transparent" TextColor="#183883" Clicked="MudarHorario"/>
+                <Button Text="Matérias" BackgroundColor="Transparent" TextColor="#183883" Clicked="MudarMaterias"/>
+                <Button Text="SUAP" BackgroundColor="Transparent" TextColor="#183883" Clicked="MudarSUAP"/>
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <NavigationPage>
+            <x:Arguments>
+                <pag:PerfilAlunos/>
+            </x:Arguments>
+        </NavigationPage>
+    </MasterDetailPage.Detail>
+ 
+</MasterDetailPage>

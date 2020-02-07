@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="UENP" x:Class="ProjetoUENP.projeto.PaginaPrincipal.PaginaLogin">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Image Source="Logo.png"/>
+                <Entry Placeholder="Login" x:Name="Login" TextColor="#183883"/>
+                <Entry IsPassword="True" Placeholder="Senha" x:Name="Senha" TextColor="#183883"/>
+                <Button Text="Login" TextColor="White" BackgroundColor="#183883" Clicked="FazerLogin"/>
+                <Label />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

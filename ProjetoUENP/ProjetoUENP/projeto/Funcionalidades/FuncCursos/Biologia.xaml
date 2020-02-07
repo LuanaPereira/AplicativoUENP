@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Ciências Biológicas" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Biologia">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="CAMPUS BANDEIRANTES" HorizontalOptions="Center"/>
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Com habilitação em Bacharelado e Licenciatura em Ciências Biológicas o curso é realizado em período diurno.
+&#10;A habilitação em Bacharelado visa desenvolver profissionais que apresentem visão abrangente de iniciação científica, com aptidão para formular e elaborar estudos, projetos ou pesquisa científica básica e aplicada, nos vários setores da Biologia ou a ela ligados.
+&#10;A Licenciatura tem como objetivo preparar esse mesmo profissional, capaz e competente tecnicamente, para o ensino de Ciências e Biologia no Ensino Fundamental e Médio, através de formação complementar na área pedagógica.
+&#10;No Campus Luiz Meneghel - Bandeirantes, o curso de Ciências Biológicas tem ênfase em Botânica, no entanto, existem diversos projetos sendo desenvolvidos pelos professores e graduandos nas diferentes áreas de atuação do biólogo como genética, zoologia, ecologia e morfologia além da área educacional."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Ciências Biológicas – Licenciatura/Bacharelado, foi autorizado a funcionar pelo Decreto Estadual nº 737, com implantação da primeira turma em 2000. Em 2004 foi reconhecido pelo Decreto Estadual nº 3.078. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 6.215 de 13 de Fevereiro de 2017 para modalidade Bacharelado e através do Decreto Estadual nº 6.645 de 12 de Abril de 2017 para modalidade Licenciatura, válidas pelo prazo de 5(cinco) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Licenciado em Ciências Biológicas deverá:
+&#10;1) estar preparado para promover o desenvolvimento dos estudantes mediante situações de aprendizagem que possibilitem a compreensão do universo físico, social e moral, viabilizando o acesso aos saberes socialmente construídos, o desenvolvimento do pensamento crítico, autônomo e criativo, contribuindo para a formação de cidadãos conscientes e ativos;
+&#10;2) ser um educador, co-responsável pelo aperfeiçoamento do processo educativo e crítico dos processos históricos da evolução da educação e principalmente das políticas educacionais ora vigentes nos âmbitos estadual e federal;
+&#10;3) implementar a prática e a reflexão científica na vida escolar e social dos estudantes do ensino fundamental e médio, incentivando projetos curriculares voltados para a temática científico tecnológica das áreas de Ciências e Biologia;
+&#10;4) estar capacitado para o exercício do trabalho do profissional de Ciências Biológicas em todas as suas dimensões, o que se supõe pleno domínio da natureza do conhecimento biológico e, deverá:
+&#10;a) ser generalista, crítico, ético, e cidadão com espírito de solidariedade;
+&#10;b) ser detentor de adequada fundamentação teórica, como base para uma ação competente, que inclua o conhecimento profundo da diversidade dos seres vivos, bem como sua organização e funcionamento em diferentes níveis, suas relações filogenéticas e evolutivas, suas respectivas distribuições e relações com o meio em que vivem;
+&#10;c) estar consciente da necessidade de atuar com qualidade e responsabilidade em prol da conservação e manejo da biodiversidade, políticas de saúde, meio ambiente, biotecnologia, bioprospecção, biossegurança, gestão ambiental, tanto nos aspectos técnico-científicos, quanto na formulação de políticas e de se tornar agente transformador da realidade presente na busca de melhoria da qualidade de vida;
+&#10;d) estar comprometido com os resultados de sua atuação, pautando sua conduta profissional por critérios humanístico, compromisso com a cidadania e rigor científico, bem como por referenciais éticos legais;
+&#10;e) estar consciente de sua responsabilidade como educador nos vários contextos de atuação profissional;
+&#10;f) estar apto a atuar multi e interdisciplinarmente, adaptável à dinâmica do mercado de trabalho e às situações de mudança contínua do mesmo;
+&#10;g) estar preparado para desenvolver ideias inovadoras e ações estratégicas, capazes de ampliar e aperfeiçoar sua área de atuação.
+&#10; 
+&#10;O Bacharel em Ciências Biológicas deverá:
+&#10;
+&#10;1) observar o ambiente com uma atitude permanente de investigação;
+&#10;2) ter uma visão crítica sobre problemas de ordem biológica e saiba interpretar as relações entre a natureza e a ciência;
+&#10;3) pautar-se pelos princípios da ética: responsabilidade, dignidade humana, direito à vida, diálogo solidariedade e justiça;
+&#10;4) possuir a capacidade de avaliação do impacto potencial ou real de novos conhecimentos e tecnologias, bem como serviços e produtos resultantes da atividade profissional;
+&#10;5) possuir uma fundamentação teórica adequada e atualizada na qual inclua o conhecimento da diversidade dos seres vivos, bem como sua organização e funcionamento em diferentes níveis, suas relações filogenéticas e evolutivas, suas respectivas distribuições e relações com o meio em que vivem;
+&#10;6) estar apto a atuar na pesquisa científica básica e aplicada nas diferentes áreas das Ciências Biológicas; bem como para o planejamento, gerenciamento e execução de processos e técnicas visando o desenvolvimento de projetos, perícias, assessorias, consultorias, emissão de laudos técnicos, inventários, pareceres, nas diferentes áreas de Ciências Biológicas.
+&#10;7) estar preparado para atuar no Ensino Superior;
+&#10;8) estar apto para atuar em pesquisa básica e aplicada nos Institutos de Pesquisa, Fundações, Autarquias, Organizações não Governamentais, Indústrias, Secretarias de Estado e, Prefeituras, consultorias e assessorias a Empresas, etc. e, estará apto a, ingressar nos cursos de Pós-graduação em Ciências Biológicas e áreas congêneres;
+&#10;9) estar capacitado ao exercício do trabalho do profissional de Ciências Biológicas em todas as suas dimensões, o que se supõe pleno domínio da natureza do conhecimento biológico, e deverá:
+&#10;a) ser generalista, crítico, ético, e cidadão com espírito de solidariedade;
+&#10;b) ser detentor de adequada fundamentação teórica, como base para uma ação competente, que inclua o conhecimento profundo da diversidade dos seres vivos, bem como sua organização e funcionamento em diferentes níveis, suas relações filogenéticas e evolutivas, suas respectivas distribuições e relações com o meio em que vivem;
+&#10;c) estar consciente da necessidade de atuar com qualidade e responsabilidade em prol da conservação e manejo da biodiversidade, políticas de saúde, meio ambiente, biotecnologia, bioprospecção, biossegurança, na gestão ambiental, tanto nos aspectos técnico-científicos, quanto na formulação de políticas e de se tornar agente transformador da realidade presente, na busca de melhoria da qualidade de vida;
+&#10;d) estar comprometido com os resultados de sua atuação, pautando sua conduta profissional por critérios humanísticos, compromisso com a cidadania e rigor científico, bem como por referenciais éticos legais;
+&#10;e) estar consciente de sua responsabilidade como educador, nos vários contextos de atuação profissional;
+&#10;f) estar apto a atuar multi e interdisciplinarmente, adaptado à dinâmica do mercado de trabalho e às situações de mudança contínua do mesmo;
+&#10;g) estar preparado para desenvolver ideias inovadoras e ações estratégicas, capazes de ampliar e aperfeiçoar sua área de atuação."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O profissional Biólogo possui um campo de atuação muito amplo e diversificado, podendo atuar em uma grande quantidade de áreas e sub-áreas da Biologia. Os tipos de atividades que cada profissional Biólogo poderá exercer e seu campo de atuação específico é definido pelo 'currículo efetivamente realizado'. São elas: Prestação de Serviços, Proposição de estudos, projetos de pesquisa e/ou serviços, Execução de análises laboratoriais e para fins de diagnósticos, estudos e projetos de pesquisa, de docência de análise de projetos/processos e de fiscalização, Consultorias/assessorias técnicas, Coordenação/orientação de estudos/projetos de pesquisa e/ou serviços, Supervisão de estudos/projetos de pesquisa e/ou serviços, Emissão de laudos e pareceres, Realização de perícias, Ocupação de cargos técnico-administrativos em diferentes níveis e Atuação como responsável técnico (TRT).
+&#10;O Licenciado em Ciências Biológicas será formado para desempenhar as seguintes atividades: atuar, profissionalmente, no exercício do magistério do ensino fundamental e médio, pode lecionar Ciências, Biologia e Disciplinas Biológicas Profissionalizantes nas redes oficiais e privadas de ensino; trabalhar em Laboratórios (de centro de qualidades e análises); trabalhar em Instituições de pesquisas puras e aplicadas, vinculadas ou não às Universidades; atuar junto à área de Ciências Ambientais associados às organizações não governamentais (ONGs)."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2013, sendo suas principais características:
+&#10;Curso: Graduação em Ciências Biológicas – Licenciatura/Bacharelado
+&#10;Carga Horária: 4.745 horas
+&#10;Turno: Integral.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 50
+&#10;Período de integralização: Mínimo de 05 (cinco) e Máximo de 08 (oito) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenadora: Carla Gomes de Araújo - cecbioclm@uenp.edu.br / carlacgabio@uenp.edu.br
+&#10;Vice Coordenador: Ana Cecília Hoffmann Inocente - anacecilia@uenp.edu.br
+&#10;Coordenador de Estágio: Priscila Caroza Frasson Costa
+&#10;Representantes docentes:
+&#10;Marco Antonia Zanoni
+&#10;Laila Herta Mihsfeltd
+&#10;Roberta Ekuni de Souza
+&#10;Representante discente:
+&#10;Ana Paula da Silva BNarbosa
+&#10;Lara Micheletti de Almeida 
+&#10;Mirella Alves de Paula"/>
+                <Label Text="Fone: (43) 3542-8050"/>
+                <Label Text="CAMPUS CORNÉLIO PROCÓPIO" HorizontalOptions="Center"/>
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O curso de Ciências Biológicas – por meio de um currículo abrangente e integrado, com visão generalista de todos os níveis de organização biológica – tem como objetivo formar biólogos e profissionais que se dediquem ao ensino e à pesquisa, capacitados a tratar os problemas ambientais de maneira integrada, atuando na preservação e no monitoramento dos ecossistemas, assumindo um caráter essencialmente holístico."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Ciências Biológicas – Licenciatura, iniciaram na década de 70, quando em 28/02/1974 foi criado o Curso de Licenciatura em Ciências – Habilitação em Biologia, e reconhecido pelo Decreto Federal 79.844, de 23/06/1977. Em função da alteração proposta pela Lei nº 9394/96 da Lei de Diretrizes e Bases da Educação, tornou-se extinto o curso de Licenciatura Curta, e para que houvesse adequação a nova ordem social do país e do mundo, o curso foi transformado em Licenciatura Plena em Ciências Biológicas, através do Decreto Estadual nº 5.840, de 03/07/2002. Posteriormente, em 2005, o Curso passou por nova adequação Projeto Político Pedagógico, que foi aceita e aprovada pelos Decretos Estaduais nº 5470 de 05/10/2005 e nº 5469 de 05/10/2005. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 5.223 de 4 de outubro de 2016, válida pelo prazo de 5(cinco) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O graduado em Ciências Biológicas deverá possuir formação básica, ampla e sólida, crítica e criativa, com adequada fundamentação teórico-prática que inclua o conhecimento profundo da diversidade biológica, a organização do nível macro ao microscópico, sua história e relações filogenéticas, padrões de distribuição e relações com o ambiente.
+&#10;Deve-se salientar ainda, que o biólogo licenciado deve apropriar-se de conhecimento científico adequado a sua profissionalização, para que possa atuar no ensino de Ciências Biológicas no Ensino Fundamental e Médio, incluindo também amplos conhecimentos em métodos e técnicas de trabalho pedagógico. Assim, além do saber científico em Ciências Biológicas, o licenciado deverá, mediante integralização do currículo, dominar amplamente o saber fazer de profissional da educação, bem como do profissional Biólogo.
+&#10;Deve também, ser capaz de compreender o processo histórico de construção do conhecimento na área de biologia, no que diz respeito a conceitos, princípios e teoria, bem como a compreensão do significado das Ciências Biológicas para a sociedade e da sua responsabilidade como educador nos vários contextos de sua atuação profissional, e mostrar-se um cidadão cientificamente educado, capaz de fazer uma leitura crítica da realidade, percebendo que as condições de vida não dependem só das causas biológicas, mas também das questões sociais, políticas e econômicas.
+&#10;O licenciado em biologia deve ser comprometido com os resultados de sua atuação; ser um profissional consciente, preocupado e comprometido com os objetivos da educação, com a prática educativa em seus vários momentos e fazer pedagógicos, com a produção do conhecimento e com a formação da educação cientifica.
+&#10;O Licenciado em Biologia deve estar apto a atuar na pesquisa científica básica e aplicada nas diferentes áreas das Ciências Biológicas; bem como para o planejamento, gerenciamento e execução de processos e técnicas visando o desenvolvimento de projetos, perícias, assessorias, consultorias, emissão de laudos técnicos, inventários, pareceres, nas diferentes áreas de Ciências Biológicas. O Licenciado em Ciências Biológicas também deve estar preparado para atuar no Ensino Superior.
+&#10;Em suma, o biólogo licenciado deve estar preparado para a atuação como produtor e divulgador do conhecimento; deve também ser educador e formador de opinião, bem como cidadão responsável e atuante na preservação e conservação do meio onde vive."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O licenciado em biologia pode atuar:
+&#10;No campo de Ensino: De Ciências no Ensino Fundamental; de Biologia no Ensino Médio e de uma área das áreas ou sub-áreas da biologia, no Ensino Superior.
+&#10;O CONSELHO FEDERAL DE BIOLOGIA – CFBio na resolução nº 10 de 05/07/2003 define que:
+&#10;'Art. 1º São as seguintes as Atividades Profissionais do Biólogo:
+&#10;Na Prestação de Serviços:
+&#10;Proposição de estudos, projetos de pesquisa e/ou serviços;
+&#10;Execução de análises laboratoriais e para fins de diagnósticos, estudos e projetos de pesquisa, de docência de análise de projetos/processos e de fiscalização;
+&#10;Coordenação/orientação de estudos/projetos de pesquisa e/ou serviços;
+&#10;Supervisão de estudos/projetos de pesquisa e/ou serviços;
+&#10;Ocupação de cargos técnico-administrativos em diferentes níveis;
+&#10;Atuação como responsável técnico (TRT).'"/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual será implantada em 2019, sendo suas principais características:
+&#10;Curso: Graduação em Ciências Biológicas - Licenciatura
+&#10;Carga Horária: 4.740 horas
+&#10;Turno: Integral.
+&#10;Regime: Seriado Semestral
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 06 (seis) anos.
+&#10;Modalidade: Presencial
+&#10;A proposta pedagógica em andamento tem em suas principais características:
+&#10;Curso: Graduação em Ciências Biológicas - Licenciatura
+&#10;Carga Horária: 3.543 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 05 (cinco) e Máximo de 07 (sete) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Carlos Eduardo Gonçalves Aggio - aggiocarlos@uenp.edu.br
+&#10;Vice Coordenador: Lindalva Pereira - lindalvapereira@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes: 
+&#10;Representante discente:"/>
+                <Label Text="Fone: (43) 3904-1922"/>
+                <Label Text="CAMPUS JACAREZINHO"/>
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A Graduação em Ciências Biológicas tem por objetivo a formação básica, ampla e sólida, crítica e criativa, com adequada fundamentação teórico-prática que inclua o conhecimento profundo da diversidade biológica, a organização do nível macro ao microscópico, sua história e relações filogenéticas, padrões de distribuição e relações com o ambiente. Este curso busca   ainda a formação do biólogo preparando-o para apropriar-se de conhecimento científico adequado a sua profissionalização, para que possa atuar no ensino de Ciências no Ensino Fundamental – Anos Finais e Biologia no Ensino Médio, incluindo também amplos conhecimentos em métodos e técnicas de trabalho pedagógico."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Ciências Biológicas – Licenciatura, foi autorizado a funcionar pelo Decreto Federal nº 47.616, com implantação da primeira turma em 1960. Em 1965 foi reconhecido pelo Decreto Federal nº 57.124. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 5.383 de 24 de outubro de 2016, válida pelo prazo de 4 (quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Graduado em Ciências Biológicas deverá possuir formação básica, ampla e sólida, crítica e criativa, com adequada fundamentação teórico-prática que inclua o conhecimento profundo da diversidade biológica, a organização do nível macro ao microscópico, sua história e relações filogenéticas, padrões de distribuição e relações com o ambiente.
+&#10;Deve-se salientar ainda, que o licenciado em biologia deve apropriar-se de conhecimento científico adequado a sua profissionalização, para que possa atuar no ensino de Ciências no Ensino Fundamental – Anos Finais e Biologia no Ensino Médio, incluindo também amplos conhecimentos em métodos e técnicas de trabalho pedagógico. Assim, além do saber científico em Biologia, o licenciado deverá, mediante integralização do currículo, dominar amplamente os saberes pedagógicos como os da prática, levando a formação do profissional da educação
+&#10;Deve também, ser capaz de compreender o processo histórico de construção do conhecimento na área de biologia, no que diz respeito a conceitos, princípios e teoria, bem como a compreensão do significado da Biologia para a sociedade e da sua responsabilidade como educador nos vários contextos de sua atuação profissional, e mostrar-se um cidadão cientificamente educado, capaz de fazer uma leitura crítica da realidade, percebendo que as condições de vida não dependem só das causas biológicas, mas também das questões sociais, políticas e econômicas.
+&#10;O licenciado em biologia deve ser comprometido com os resultados de sua atuação; um profissional consciente, preocupado e comprometido com os objetivos da educação, com a prática educativa em seus vários momentos e fazeres pedagógicos, com a produção do conhecimento e com a formação da educação científica.
+&#10;O Graduado em Ciências Biológicas deve estar apto a atuar na pesquisa científica básica e aplicada nas diferentes áreas das Ciências Biológicas. O Licenciado em Biologia também deve estar preparado para atuar no Ensino Superior.
+&#10;Em suma, o licenciado em Biologia deve estar preparado para a atuação como produtor e divulgador do conhecimento; deve também ser educador e formador de opinião, bem como cidadão responsável e atuante na preservação e conservação do meio onde vive."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O licenciado em Ciências Biológicas pode atuar:
+&#10;No campo de Ensino:
+&#10;- de Ciências no Ensino Fundamental – Séries Finais;
+&#10;- de Biologia no Ensino Médio;
+&#10;- de uma área das áreas ou sub-áreas da biologia, no Ensino Superior."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2000, sendo suas principais características:
+&#10;Curso: Graduação em Ciências Biológicas
+&#10;Carga Horária: 3.100 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 07 (sete) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Mateus Luiz Biancon - mateusbiancon@uenp.edu.br
+&#10;Vice Coordenador: Fernando Emmanuel Gonçalves Vieira – fernando_egv@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente: "/>
+                <Label Text="Fone: (43) 3527-1243"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Bem vindo" x:Class="ProjetoUENP.projeto.PaginaPrincipal.PaginaInicial">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="30">
+                <Button Text="A UENP" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MudarUENP" IsEnabled="True"/>
+                <Button Text="NOTÍCIAS" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MudarNoticias" IsEnabled="True"/>
+                <Button Text="EDITAIS" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MudarEditais" IsEnabled="True"/>
+                <Button Text="EVENTOS" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MudarEventos" IsEnabled="True"/>
+                <Button Text="CURSOS" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MudarCursos" IsEnabled="True"/>
+                <Button Text="PROFESSORES" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MudarProfessores" IsEnabled="True"/>
+                <Button Text="SAÚDE" TextColor="White" BackgroundColor="#183883" FontSize="Medium" Clicked="MudarSaude" IsEnabled="True"/>
+                <Button Text="ALIMENTAÇÃO" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarAlimentacao" IsEnabled="True"/>
+                <Button Text="MORADIAS" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarMoradias" IsEnabled="True"/>
+                <Button Text="TRANSPORTE" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarTransporte" IsEnabled="True"/>
+                <Button Text="LOCALIZAÇÃO" TextColor="White" BackgroundColor="#183883" FontSize="Medium"  Clicked="MudarLocalizacao" IsEnabled="True"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

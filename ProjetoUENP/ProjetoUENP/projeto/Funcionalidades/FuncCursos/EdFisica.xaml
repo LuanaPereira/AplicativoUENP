@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Educação Física" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.EdFisica">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="GRADUAÇÃO EM EDUCAÇÃO FÍSICA – Bacharelado 
+&#10;
+&#10;O Curso de Licenciatura e Bacharelado em Educação Física da UENP está voltado para o atendimento da demanda social na formação de profissionais em nível superior, capacitados a intervir  profissionalmente  no  âmbito  específico  e  histórico-cultural,  nas  várias  manifestações  da cultura  do  movimento,  sejam  elas  formais  ou  não  formais,  a  partir  de  conhecimentos  técnicos, científicos e culturais, buscando resguardar as características regionais no tocante aos interesses apresentados neste campo de atuação.
+&#10;Este curso prepara o indivíduo como licenciado para atuar nas diferentes etapas e modalidades da educação básica, portanto, para atuação específica e especializada com a componente curricular Educação Física e como bacharel (oficialmente designado de graduação) qualificado para analisar criticamente a realidade social, para nela intervir por meio das diferentes manifestações da atividade física e esportiva, tendo por finalidade aumentar as possibilidades de adoção de um estilo de vida fisicamente ativo e saudável.
+&#10;
+&#10;GRADUAÇÃO EM EDUCAÇÃO FÍSICA – Lincenciatura
+&#10;
+&#10;O Curso de Graduação em Educação Física – Licenciatura está voltado para o atendimento da demanda social na formação de profissionais em nível superior, capacitados a intervir  profissionalmente  no  âmbito  específico  e  histórico-cultural,  nas  várias  manifestações  da cultura  do  movimento,  sejam  elas  formais  ou  não  formais,  a  partir  de  conhecimentos  técnicos, científicos e culturais, buscando resguardar as características regionais no tocante aos interesses apresentados neste campo de atuação.
+&#10;Este curso prepara o indivíduo como licenciado para atuar nas diferentes etapas e modalidades da educação básica, portanto, para atuação específica e especializada com a componente curricular Educação Física."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="GRADUAÇÃO EM EDUCAÇÃO FÍSICA – Bacharelado 
+&#10;
+&#10;O Curso de Graduação em Educação Física – Bacharelado e Licenciatura, foi autorizado a funcionar pelo Decreto Federal nº 70.425, com implantação da primeira turma em 1972. Em 1977 foi reconhecido pelo Decreto Federal nº 79.150. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 7.075 de 12 de maio de 2010, válida pelo prazo de 5(cinco) anos.
+&#10;
+&#10;GRADUAÇÃO EM EDUCAÇÃO FÍSICA – Bacharelado 
+&#10;
+&#10;O Curso de Graduação em Educação Física – Licenciatura, foi autorizado a funcionar pelo Decreto Federal nº 70.425, com implantação da primeira turma em 1972. Em 1977 foi reconhecido pelo Decreto Federal nº 79.150. A última Renovação de Reconhecimento ocorreu através do Decreto Estadual nº 5.846 de 3 de Janeiro de 2017, válida pelo prazo de 4(quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="GRADUAÇÃO EM EDUCAÇÃO FÍSICA – Bacharelado
+&#10;
+&#10;O Curso de Licenciatura em Educação Física da UENP está voltado para o atendimento da demanda social na formação de profissionais em nível superior, capacitados a intervir profissionalmente no âmbito específico e histórico-cultural, nas várias manifestações da cultura do movimento, sejam elas formais ou não formais, a partir de conhecimentos técnicos, científicos e culturais, buscando resguardar as características regionais no tocante aos interesses apresentados neste campo de atuação.
+&#10;Nesta dimensão, procura-se capacitar profissionais adaptáveis a situações novas e emergentes, em permanente e contínua formação, visando a progressiva autonomia profissional, com condições para contribuir na produção de conhecimentos, comprometidos com os processos de desenvolvimento humano, especialmente voltados para a promoção do estilo de vida fisicamente ativo e saudável e o alargamento da qualidade de vida, com ampla visão crítica da realidade e posicionamento ético, assim como, o domínio de instrumentos, técnicas e métodos que permitam desempenho com qualidade de sua profissão.
+&#10;O profissional da Educação Física (Bacharelado e Licenciatura) formado pela UENP, como profissional apto em relação aos conhecimentos do movimento humano nas suas diversas manifestações e objetivos, deverá ter o seguinte perfil:
+&#10;Visão sistêmica da realidade sociocultural, política e econômica do país, e visão holística do ser humano atuando em equipes multiprofissionais e multidisciplinares;
+&#10;Capacidade de liderança, relacionando-se com os componentes das equipes, multidisciplinares e com os usuários dos seus serviços, embasado no respeito mútuo e nos valores de cidadania e ética;
+&#10;Capacidade de identificar, articular intelectualmente e colocar em prática os conhecimentos, valores, técnicas e habilidades necessárias ao eficiente desempenho das suas funções;
+&#10;Sólida formação nas áreas de conhecimento que formam a identidade do curso, que o capacite para compreensão, análise, transmissão e aplicação dos conhecimentos da Atividade Física/Movimento Humano e o exercício profissional em Educação Física com competências decorrentes das relações com a pesquisa e a prática social;
+&#10;Respeito e valorização do ser humano, atuando nos diversos níveis de atenção à saúde e qualidade de vida, integrando-se em programas de promoção, manutenção, prevenção, proteção e reabilitação da saúde, incluindo o setor educacional;
+&#10;Capacidade para a busca da aprendizagem contínua, tanto no aprofundamento dos conhecimentos como no aperfeiçoamento das práticas;
+&#10;Compromisso com a comunidade na sua contínua transformação social e cultural;
+&#10;Rigor científico e intelectual para atuar com segurança na Intervenção pedagógica do componente curricular do ensino formal – Educação Básica, além das diversas áreas das atividades físicas, do movimento humano, dentre as quais: Orientação da atividade física para as diversas populações; Avaliação e prescrição da atividade motora; Treinamento Desportivo; Orientação na Iniciação desportiva e aquisição de habilidades motoras, para populações especiais, inclusive para portadores de necessidades especiais;
+&#10;Conhecer os princípios da metodologia científica, possibilitando a leitura crítica de artigos técnico-científicos e a participação na produção de conhecimentos com vistas à qualificação da prática profissional;
+&#10;Compromisso e preocupação com a promoção de estilos de vida saudáveis, conciliando as necessidades tanto dos seus beneficiários quanto às de sua comunidade;
+&#10;Capacidade de participar da composição das estruturas consultivas e deliberativas do sistema de educação e esporte, assessorando órgãos públicos e/ou privados em projetos de saúde, educação, atividade física em suas mais diversas manifestações.
+&#10;
+&#10;GRADUAÇÃO EM EDUCAÇÃO FÍSICA – Licenciatura
+&#10;
+&#10;As atuais configurações sociais, aliadas ao crescente desenvolvimento técnico-científico, incorporando-se a estes aspectos as alterações na Legislação da Educação brasileira (LDB, Lei no9394/96) no que se refere à Educação Física/componente curricular, assim como o crescimento do interesse pelas atividades físicas, decorrente da preocupação com a qualidade de vida, vêm exigindo da Educação Física uma resposta versátil e um reposicionamento profissional à altura das novas demandas.
+&#10;A Educação Física se expressa, na prática, em estudos e atividades de aperfeiçoamento do viver saudável dos seres humanos. Neste universo exigente e desafiador busca sedimentar seu espaço. O estilo de vida ativo com o uso de prática de atividades físicas regulares tomou grande impulso junto às populações, perspectivando a melhoria da saúde, a diminuição do estresse e a busca por uma melhor qualidade de vida corporal e mental. Neste contexto, o campo de atuação profissional para os egressos do curso de Educação Física consolidou-se e vem em plena ascensão.
+&#10;O campo de atuação do profissional Licenciado em Educação Física é delimitado pela sua capacidade de atuar nos segmentos educacionais da sociedade, exercendo atividades pertinentes de coordenação, planejamento, execução e avaliação de programas de Educação Física, individuais e coletivos, para uma clientela formada por crianças, jovens, adultos e idosos, junto a instituições de ensino fundamental e médio, particulares e ou públicas. Também podendo exercer atividades junto ao Conselho Federal de Educação Física, aos Conselhos Regionais, em atividades acadêmicas e ainda realizar auditorias, consultorias e assessorias especializadas. Entre os novos segmentos sociais que se apresentam como novas demandas sociais para esta área destacam-se os grupos especiais, da terceira idade, pessoas com necessidades físicas especiais.
+&#10;O Projeto Pedagógico do Curso de Educação Física da UENP visa formar o Licenciado em Educação Física que irá atender a uma população numerosa, existente em Jacarezinho e demais regiões do Paraná e também do Estado de São Paulo, pois se trata de uma cidade fronteiriça, cidade com grande potencial de desenvolvimento, cuja população local e do seu entorno responderá com efetividade às ofertas por melhor qualidade de vida e oportunidades de inclusão social (idosos, crianças e adolescentes), ao atuar nos campos da prevenção, promoção, proteção e reabilitação da saúde, da formação cultural, da educação e reeducação motora, do rendimento físico-esportivo, do lazer e de outros campos que oportunizem ou venham oportunizar a prática de atividades físicas, recreativas e esportivas no setor educacional.
+&#10;O projeto proposto dá ênfase à formação do Educador para atuar:
+&#10;Em instituições públicas e privadas de Educação Básica em seus três níveis: Educação Infantil, Ensino Fundamental e Ensino Médio;
+&#10;Educação profissional de jovens e adultos;
+&#10;Institutos de Educação Especial;
+&#10;Órgãos Públicos de Educação em níveis Municipal, Estadual e Federal;
+&#10;O desafio da UENP é implantar um Curso na área de Educação Física que além da aquisição formal de conhecimentos academicamente validados, constitua-se também em um instrumento capaz de integrar áreas disciplinares distintas, porém complementares, no terreno da ação social, trabalhando essencialmente, as políticas públicas."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="GRADUAÇÃO EM EDUCAÇÃO FÍSICA – Bacharelado
+&#10;
+&#10;As atuais configurações sociais, aliadas ao crescente desenvolvimento técnico-científico, incorporando-se a estes aspectos as alterações na Legislação da Educação brasileira (LDB, Lei no9394/96) no que se refere à Educação Física/componente curricular, assim como o crescimento do interesse pelas atividades físicas, decorrente da preocupação com a qualidade de vida, vêm exigindo da Educação Física uma resposta versátil e um reposicionamento profissional à altura das novas demandas. 
+&#10;Bacharelado
+&#10;A Educação Física se expressa, na prática, em estudos e atividades de aperfeiçoamento do viver saudável dos seres humanos. Neste universo exigente e desafiador busca sedimentar seu espaço. O estilo de vida ativo por meio da prática de atividades físicas regulares tomou grande impulso junto às populações, perspectivando a melhoria da saúde, a diminuição do estresse e a conquista da boa qualidade de vida. Neste contexto, o campo de atuação profissional para os egressos do curso de Educação Física consolidou-se e vem em plena ascensão, principalmente com o advento da regulamentação profissional e a criação respectiva dos Conselhos Federal e Regionais dos profissionais em Educação Física, por meio da exigência legal da filiação para os graduados em nível superior, garantindo assim não só uma intervenção profissional de qualidade como também o delineamento do mercado de trabalho, o que justifica plenamente os esforços desta instituição na implantação e consolidação acadêmica deste curso.
+&#10;O campo de atuação do profissional de Educação Física será delimitado pela sua capacidade de atuar em todos os segmentos da sociedade, exercendo atividades pertinentes de coordenação, planejamento, execução e avaliação de programas de Educação Física, individuais e coletivos, para uma clientela formada por crianças, jovens, adultos e idosos, junto a instituições particulares e ou públicas que ofereçam programas nesta área de atuação. Também podendo exercer atividades junto ao Conselho Federal de Educação Física, aos Conselhos Regionais, em atividades acadêmicas e ainda realizar auditorias, consultorias e assessorias especializadas. Entre os novos segmentos sociais que se apresentam como novas demandas sociais para esta área destacam-se os grupos especiais da terceira idade e pessoas com necessidades físicas especiais.
+&#10;O Projeto Pedagógico do Curso de Educação Física da UENP visa formar o Bacharel em Educação Física que irá atender a uma população numerosa, existente na região e Estados do Paraná e São Paulo.
+&#10;O desafio da UENP é implantar um Curso na área de Educação Física que proporcione além da aquisição formal de conhecimentos academicamente validados, também se constitua em um instrumento capaz de integrar áreas disciplinares distintas, porém complementares, no terreno da ação social, trabalhando essencialmente as políticas públicas.
+&#10;Licenciatura
+&#10;A Educação Física se expressa, na prática, em estudos e atividades de aperfeiçoamento do viver saudável dos seres humanos. Neste universo exigente e desafiador busca sedimentar seu espaço. O estilo de vida ativo com o uso de prática de atividades físicas regulares tomou grande impulso junto às populações, perspectivando a melhoria da saúde, a diminuição do estresse e a busca por uma melhor qualidade de vida corporal e mental. Neste contexto, o campo de atuação profissional para os egressos do curso de Educação Física consolidou-se e vem em plena ascensão.
+&#10;O campo de atuação do profissional Licenciado em Educação Física é delimitado pela sua capacidade de atuar nos segmentos educacionais da sociedade, exercendo atividades pertinentes de coordenação, planejamento, execução e avaliação de programas de Educação Física, individuais e coletivos, para uma clientela formada por crianças, jovens, adultos e idosos, junto a instituições de ensino fundamental e médio, particulares e ou públicas. Também podendo exercer atividades junto ao Conselho Federal de Educação Física, aos Conselhos Regionais, em atividades acadêmicas e ainda realizar auditorias, consultorias e assessorias especializadas. Entre os novos segmentos sociais que se apresentam como novas demandas sociais para esta área destacam-se os grupos especiais, da terceira idade, pessoas com necessidades físicas especiais.
+&#10;O Projeto Pedagógico do Curso de Educação Física da UENP visa formar o Licenciado em Educação Física que irá atender a uma população numerosa, existente em Jacarezinho e demais regiões do Paraná e também do Estado de São Paulo, pois se trata de uma cidade fronteiriça, cidade com grande potencial de desenvolvimento, cuja população local e do seu entorno responderá com efetividade às ofertas por melhor qualidade de vida e oportunidades de inclusão social (idosos, crianças e adolescentes), ao atuar nos campos da prevenção, promoção, proteção e reabilitação da saúde, da formação cultural, da educação e reeducação motora, do rendimento físico-esportivo, do lazer e de outros campos que oportunizem ou venham oportunizar a prática de atividades físicas, recreativas e esportivas no setor educacional.
+&#10;O projeto proposto dá ênfase à formação do Educador para atuar:
+&#10;Em instituições públicas e privadas de Educação Básica em seus três níveis: Educação Infantil, Ensino Fundamental e Ensino Médio;
+&#10;Educação profissional de jovens e adultos;
+&#10;Institutos de Educação Especial;
+&#10;Órgãos Públicos de Educação em níveis Municipal, Estadual e Federal;
+&#10;O desafio da UENP é implantar um Curso na área de Educação Física que além da aquisição formal de conhecimentos academicamente validados, constitua-se também em um instrumento capaz de integrar áreas disciplinares distintas, porém complementares, no terreno da ação social, trabalhando essencialmente, as políticas públicas.
+&#10;
+&#10;GRADUAÇÃO EM EDUCAÇÃO FÍSICA – Licenciatura
+&#10;
+&#10;O Curso de Graduação em Educação Física - Licenciatura está voltado para o atendimento da demanda social na formação de profissionais em nível superior, capacitados a intervir no âmbito específico e histórico-cultural, nas várias manifestações da cultura do movimento, sejam elas formais ou não formais, a partir de conhecimentos técnicos, científicos e culturais, buscando resguardar as características regionais no tocante aos interesses apresentados neste campo de atuação.
+&#10;Nesta dimensão, procura-se capacitar docentes adaptáveis a situações novas e emergentes, em permanente e contínua formação, visando a progressiva autonomia, com condições para contribuir na produção de conhecimentos, comprometidos com os processos de desenvolvimento humano, especialmente voltados para a promoção do estilo de vida fisicamente ativo e saudável e o alargamento da qualidade de vida, com ampla visão crítica da realidade e posicionamento ético, assim como, o domínio de instrumentos, técnicas e métodos que permitam desempenho com qualidade de sua atuação docente.
+&#10;O docente da Educação Física formado pela UENP, como profissional apto em relação aos conhecimentos do movimento humano nas suas diversas manifestações e objetivos, deverá estar qualificado para a docência do componente curricular na educação básica, tendo como referência legislação própria do Conselho Nacional de Educação, tendo o seguinte perfil:
+&#10;Visão sistêmica da realidade sociocultural, política e econômica do país, e visão holística do ser humano atuando em equipes multiprofissionais e multidisciplinares;
+&#10;Capacidade de liderança, relacionando-se com os componentes das equipes, multidisciplinares e com os usuários dos seus serviços, embasado no respeito mútuo e nos valores de cidadania e ética;
+&#10;Capacidade de identificar, articular intelectualmente e colocar em prática os conhecimentos, valores, técnicas e habilidades necessárias ao eficiente desempenho das suas funções;
+&#10;Sólida formação nas áreas de conhecimento que formam a identidade do curso, que o capacite para compreensão, análise, transmissão e aplicação dos conhecimentos da Atividade Física/Movimento Humano e o exercício docente em Educação Física com competências decorrentes das relações com a pesquisa e a prática social;
+&#10;Respeito e valorização do ser humano, atuando nos diversos níveis de atenção à saúde e qualidade de vida, integrando-se em programas de promoção, manutenção, prevenção, proteção e reabilitação da saúde, no setor educacional;
+&#10;Capacidade para a busca da aprendizagem contínua, tanto no aprofundamento dos conhecimentos como no aperfeiçoamento das práticas;
+&#10;Compromisso com a comunidade na sua contínua transformação social e cultural;
+&#10;Rigor científico e intelectual para atuar com segurança na Intervenção pedagógica do componente curricular do ensino formal – Educação Básica, além das diversas áreas das atividades físicas, do movimento humano, dentre as quais: Orientação na Iniciação desportiva e aquisição de habilidades motoras, para populações especiais, inclusive para portadores de necessidades especiais;
+&#10;Conhecer os princípios da metodologia científica, possibilitando a leitura crítica de artigos técnico-científicos e a participação na produção de conhecimentos com vistas à qualificação da prática docente;
+&#10;Compromisso e preocupação com a promoção de estilos de vida saudáveis, conciliando as necessidades tanto dos seus alunos quanto às de sua comunidade;
+&#10;Capacidade de participar da composição das estruturas consultivas e deliberativas do sistema de educação e esporte, assessorando órgãos públicos e/ou privados em projetos de saúde, educação, atividade física em suas mais diversas manifestações."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="GRADUAÇÃO EM EDUCAÇÃO FÍSICA – Bacharelado
+&#10;
+&#10;A proposta pedagógica atual foi implantada em 2010, sendo suas principais características:
+&#10;Curso: Graduação em Educação Física – Bacharelado e Licenciatura
+&#10;Carga Horária: 2.800 horas (licenciatura) e 4.080 (bacharelado e licenciatura)
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 70
+&#10;Período de integralização: Mínimo de 3,5 (três virgula cinco) e Máximo de 08 (oito) anos.
+&#10;Modalidade: Presencial
+&#10;
+&#10;GRADUAÇÃO EM EDUCAÇÃO FÍSICA – Bacharelado 
+&#10;
+&#10;A proposta pedagógica atual foi implantada em 2016, sendo suas principais características:
+&#10;Curso: Graduação em Educação Física – Licenciatura
+&#10;Carga Horária: 2.950 horas
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 4 (quatro) e Máximo de 06 (seis) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="GRADUAÇÃO EM EDUCAÇÃO FÍSICA – Bacharelado 
+&#10;                       
+&#10;Coordenador: Claudinei Ferreira dos Santos – neief@uenp.edu.br
+&#10;Vice Coordenador: Almir de Oliveira Ferreira – al_rjferreira@uenp.edu.br
+&#10;Coordenador de Estágio:  
+&#10;Representantes docentes:
+&#10;Representante discente:  
+&#10;                       
+&#10;GRADUAÇÃO EM EDUCAÇÃO FÍSICA – Licenciatura          
+&#10;
+&#10;Coordenadora: Maria Cristina Simeoni - mcsimeoni@uenp.edu.br
+&#10;Vice Coordenador: Rui Gonçalves Marques Elias – rgmelias@uenp.edu.br
+&#10;Coordenador de Estágio: 
+&#10;Representantes docentes:
+&#10;Representante discente:"/>
+                <Label Text="Fone: (43) 3525-0498"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

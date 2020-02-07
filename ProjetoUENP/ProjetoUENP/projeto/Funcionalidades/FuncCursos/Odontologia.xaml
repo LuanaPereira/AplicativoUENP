@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Odontologia" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.Odontologia">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Criação: Resolução nº. 011/2010 – CUP/UENP;
+&#10;Autorização: Decreto Estadual nº. 11.234/2014; e Retificação em Decreto Estadual nº. 11.598/2014."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="No que diz respeito ao histórico, o curso de graduação em Odontologia – Bacharelado encontra-se em fase inicial de implantação, com previsão de início da primeira turma no ano letivo de 2015. Sua criação foi homologada pelo Conselho Universitário Provisório da UENP pela Resolução 011/2010, publicada em 18 de maio de 2010, após as devidas tramitações internas à Universidade, então recém-criada no cenário das Universidades Paranaenses.
+&#10;Naquele contexto, ocorreu que a criação do curso de Odontologia, por demandar recursos financeiros, exigiu encaminhamento à Secretaria de Ciência, Tecnologia e Ensino Superior – SETI, para autorização.
+&#10;Assim, após alguns anos de análise, tramitação e empenho da UENP para alcançar essa conquista, o curso de graduação em Odontologia – Bacharelado obteve autorização de funcionamento pelo Decreto Estadual nº. Decreto Estadual nº. 11.234/2014, retificado a posteriori pelo Decreto Estadual nº. 11.598/2014, no que se referia ao número de vagas.
+&#10;No que tange ao diagnóstico do curso, no contexto da UENP esse será construído gradativamente com a implantação das séries, a partir de 2015. A esse respeito, especula-se a possibilidade de Adequação Curricular já nos primeiros anos de implantação, tendo em vista que a UENP dá autonomia aos Colegiados de Curso para elaboração de seus Projetos Pedagógicos e que, no caso específico do curso de graduação em Odontologia – Bacharelado, esse Colegiado somente será instituído com a contratação dos docentes para atuarem no curso. Nesse sentido, é de entendimento de todas as instâncias envolvidas com a implantação desse curso, que a experiência real dos docentes durante sua implantação é que possibilitará a avaliação imediata do currículo aqui proposto.
+&#10;No cenário nacional e regional é possível registrar alguns pontos relativos ao diagnóstico do curso de graduação em Odontologia, dentre estes nota-se a constante inserção desta profissão nos programas sociais. Deste modo, a formação de generalistas com comprometimento com a saúde pública e conhecimento destes programas (ESF, Brasil Sorridente, entre outros) é fundamental."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A UENP tem por finalidade promover a formação do Cirurgião Dentista com perfil educacional baseado em sua integração com a sociedade, demonstrando com clareza, como e onde desenvolver ações promotoras de saúde bucal, colaborando com instituições de saúde pública e outras que tenham como objetivos melhorar as condições de saúde da população.
+&#10;Essas atitudes ético-profissionais que se deseja dos Odontólogos formados pelo Curso de Odontologia desta IES, devem ser decorrentes do desenvolvimento de conhecimentos produzidos com base nas concepções que norteiam o curso, nos conteúdos das disciplinas ministradas, quer nas áreas básicas, sedimentando os conhecimentos teóricos e práticos, como também as áreas específicas profissionalizantes.
+&#10;As concepções postas como norteadoras da formação do Odontólogo deverão ser presentes em suas ações e atitudes junto a seus pacientes, não se limitando apenas ao diagnóstico e a prática da terapêutica, mas também desenvolvendo ações que promovam a prevenção de possíveis doenças que possam comprometer a saúde bucal, prevenindo enfermidades bucais, limitando as incapacidades, reabilitando o paciente e reintroduzindo-o na sociedade.
+&#10;As funções exercidas pelos Cirurgiões Dentistas nos dias de hoje transcendem os conhecimentos do Sistema Estomatognático exigindo que na sua formação, estejam contempladas ações transdisciplinares que permitam a integração das suas áreas da saúde, possibilitando ao Odontólogo, trabalhar em equipes de profissionais que cuidam do ser humano como um todo, e não somente de forma compartimentalizada.
+&#10;Esta visão do todo, permite a disseminação de conhecimento que norteiam a formação acadêmica de qualidade com consequências diretas à população.
+&#10;Assim, o curso de Odontologia do Centro de Ciências da Saúde, da Universidade Estadual do Norte do Paraná – UENP – Campus de Jacarezinho, deverá formar um profissional generalista, capaz de associar o saber-fazer ao conhecimento da realidade a qual está inserido, com formação ética, social e humanística, conhecimentos técnicos científicos de alta qualidade, que resultarão em grandes benefícios à sociedade.
+&#10;Nesse sentido, a formação do profissional Cirurgião Dentista deverá pautar-se no sistema de saúde vigente no país, dispensando a atenção integral à saúde num sistema regionalizado e hierarquizado de referência e trabalho em equipe.
+&#10;Desta forma, faz-se imprescindível incorporar na formação do profissional Cirurgião Dentista uma visão social e humanitária, reconhecendo, analisando criticamente e atuando sobre as necessidades básicas dos serviços de saúde da comunidade.
+&#10;Portanto, todo o conhecimento técnico-científico gerado na Universidade deverá ser empregado diretamente na atenção das necessidades básicas de saúde do município, durante o curso de graduação, fazendo com que os próprios alunos, acompanhados por docentes responsáveis, sejam instrumentos desse processo."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Por apresentar uma formação generalista com experiências em diversos cenários de práticas proporcionados pela estrutura curricular, o profissional Cirurgião Dentista formado pela UENP terá capacidade de desenvolver suas habilidades em diferentes ambientes de trabalho desenvolvendo suas funções em equipes multidisciplinares em serviços públicos e ou privados. Sua formação também oportuniza o encaminhamento para carreira Docente com produção científica, assim como a prática da profissão em consultórios particulares."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual será implantada em 2015, sendo suas principais características:
+&#10;Curso: Graduação em Odontologia - Bacharelado
+&#10;Carga Horária: 4.500 horas
+&#10;Turno: Integral.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 05 (cinco) e Máximo de 09 (nove) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenadora: Sônia Regina Leite Merege - sonia@uenp.edu.br 
+&#10;Vice Coordenador: Jussara Eliana Utida - jeutida@uenp.edu.br
+&#10;Coordenador de Estágio: Sibelli Olivieri Parreiras
+&#10;Representante docente: José SIdney Roque
+&#10;Diretor da Clinica Odontológica: João Lopes Neto 
+&#10;Representante discente: Geovanna Moretti Frederich"/>
+                <Label Text="Fone: (43) 3525-0498"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

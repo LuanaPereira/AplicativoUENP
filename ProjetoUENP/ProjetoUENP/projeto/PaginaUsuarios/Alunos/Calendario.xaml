@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjetoUENP.projeto.PaginaUsuarios.Alunos.Calendario" Title="Calendário">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label x:Name="Status"/>
+                <WebView Source="https://drive.google.com/file/d/1YSheMXir60fs_7t3K95ueSr6eYO1k6oy/view?usp=sharing"
+                         Navigated="ActionCarregado"
+                         Navigating="ActionCarregando"
+                         HorizontalOptions="FillAndExpand"
+                         VerticalOptions="FillAndExpand">
+                </WebView>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

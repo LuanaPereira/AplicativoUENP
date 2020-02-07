@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Ciência da Computação" x:Class="ProjetoUENP.projeto.Funcionalidades.FuncCursos.CienciaDaComputacao">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+                <Label Text="APRESENTAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O curso de Graduação em Ciência da Computação – Bacharelado, tem a computação como atividade-fim e prepara profissionais capacitados a contribuir para a evolução do conhecimento do ponto de vista científico e tecnológico. Esse conhecimento é utilizado na avaliação, especificação, desenvolvimento de ferramentas, métodos e sistemas computacionais.
+&#10;As atividades desses profissionais englobam: (a) a investigação e desenvolvimento de conhecimento teórico e prático na área de computação; (b) a análise e modelagem de problemas do ponto de vista computacional; e (c) o projeto e implementação de sistemas de computação.
+&#10;Além disso, o curso propicia uma base sólida para que o aluno possa dar continuidade em atividades de pesquisa."/>
+                <Label Text="HISTÓRICO DO CURSO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="O Curso de Graduação em Ciência da Computação – Bacharelado, foi autorizado a funcionar pelo Decreto Estadual nº 6.058, com implantação da primeira turma em 2013 e reconhecido pelo Decreto Estadual nº 5.906 de 9 de janeiro de 2017, válida pelo prazo de 4(quatro) anos."/>
+                <Label Text="PERFIL DO PROFISSIONAL A SER FORMADO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="As características dos egressos dos cursos de graduação da área de computação podem ser divididas em três componentes, englobando aspectos gerais, técnicos e ético-sociais, analisados a seguir.
+&#10;
+&#10;1) Aspectos gerais
+&#10;Os egressos de cursos que tem a computação como atividade fim, devem ser profissionais com as seguintes características:
+&#10;Capacidade para aplicar seus conhecimentos de forma independente e inovadora, acompanhando a evolução do setor e contribuindo na busca de soluções nas diferentes áreas aplicadas;
+&#10;Formação humanística permitindo a compreensão do mundo e da sociedade, e o desenvolvimento de habilidades de trabalho em grupo e de comunicação e expressão;
+&#10;Formação em negócios, permitindo uma visão da dinâmica organizacional;
+&#10;Preocupação constante com a atualização tecnológica e com o estado da arte;
+&#10;Domínio da língua inglesa para leitura técnica na área; e
+&#10;Conhecimento básico das legislações trabalhista e de propriedade intelectual.
+&#10;
+&#10;2) Aspectos técnicos
+&#10;Os egressos devem ser profissionais com os seguintes conhecimentos técnicos, que podem variar de acordo com as especificidades de cada curso (Bacharelado em Ciência da Computação ou Engenharia de Computação:
+&#10;Processo de projeto para construção de soluções de problemas com base científica;
+&#10;Modelagem e especificação de soluções computacionais para diversos tipos de problemas;
+&#10;Validação da solução de um problema de forma efetiva;
+&#10;Projeto e implementação de sistemas de computação; e
+&#10;Critérios para seleção de software e hardware adequados às necessidades empresarais, industriais, administrativas de ensino e de pesquisa."/>
+                <Label Text="CAMPOS DE ATUAÇÃO" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="No desenvolvimento de Software Básico e Aplicativo. Software básico e aplicativo são denominações dadas aos programas de computadores de uso geral, não restrito a uma única organização. São exemplos de software básico: os editores de texto, planilhas eletrônicas, browsers, compiladores, parsers, etc. São exemplos de aplicativos: Software para Gestão de Documentos, Workflow, etc. A formação ampla e sólida em Programação e Engenharia de Software oferecida pelo curso permite ao formado atuar no design, implementação e avaliação destes produtos. As ofertas de empregos para estas competências estão nas organizações em geral, mas especialmente em empresas da chamada indústria de software.
+&#10;Em redes de computadores. A instalação de sistemas computacionais em empresas requer o projeto, implantação e gerência de uma rede de computadores. Esta atividade hoje é essencial em quase todas as empresas que utilizam Tecnologia da Informação, o que garante um amplo mercado de trabalho. A atividade permanente de gerência da rede para garantir o seu pleno funcionamento e a segurança e integridade dos seus componentes requer um profissional diferenciado de alta capacitação com uma boa remuneração no mercado de trabalho.
+&#10;Na solução de problemas relacionados com a interação entre usuário e sistemas. O foco no desenvolvimento de sistemas computacionais não deve estar restrito ao sistema em si. Ele deve ser amplo, centrado nas pessoas que irão utilizá-lo e no contexto onde está inserido. O curso aborda os aspectos teóricos envolvidos na interação homem-computador e nas soluções para melhorar a usabilidade e a acessibilidade destes sistemas. Esta competência capacita o aluno formado a atuar em empresas que produzam hardware e software ou que utilizam sistemas computacionais na realização de suas atividades.
+&#10;No desenvolvimento de Sistemas de Informação. Os sistemas de informação compreendem o conjunto de hardware e software que processam, armazenam e divulgam as informações de uma organização. O desenvolvimento destes sistemas requer a análise dos modelos de negócios utilizados pela organização e a elaboração de uma solução computacional técnica e economicamente viável. Esta formação permite ao futuro profissional atuar em qualquer organização que utilize Tecnologia da Informação. Nestas organizações ele pode assumir cargos e funções de Engenheiro de Software, Analista de Sistemas, Gerentes de Projetos, Gerente de Tecnologia da Informação, dentre várias outras.
+&#10;Na elaboração de modelos matemáticos e algoritmos para solução de problemas. Em muitos casos, o desenvolvimento de um sistema computacional requer o entendimento de um problema, a elaboração de um modelo matemático e construção de um algoritmo que possibilite a sua implementação num computador. Neste processo está a essência da computação como ciência e é fundamental ao profissional o domínio desta competência. Esta formação capacita o egresso a trabalhar em empresas cuja atividade fim não seja a computação, mas que necessita desenvolver sistemas para as suas necessidades específicas. São exemplos os sistemas para engenharia, sistemas científicos, sistemas para a área do petróleo, sistemas para meteorologia, etc.
+&#10;No ensino, na pesquisa e na pós-graduação na área de computação ou em áreas que apliquem a computação. O aluno formado no curso também está preparado para atuar no ensino, na pesquisa e ou realizar uma pós graduação nesta área para que possa aperfeiçoar e expandir os seus conhecimentos. Nesta atuação profissional, é possível trabalhar em universidades ou centros de pesquisa para contribuir com novas descobertas teóricas e tecnológicas na ciência da computação."/>
+                <Label Text=" PROPOSTA PEDAGÓGICA EM VIGOR" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="A proposta pedagógica atual foi implantada em 2011, sendo suas principais características:
+&#10;Curso: Graduação em Sistemas de Informação – Licenciatura/Bacharelado
+&#10;Carga Horária: 3.750 horas (Licenciatura/Bacharel)
+&#10;3.210 horas (Licenciatura em Computação)
+&#10;3.350 horas (Bacharel em Sistemas de Informação)
+&#10;Turno: Noturno.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 07 (sete) anos.
+&#10;Modalidade: Presencial&#10;A proposta pedagógica atual foi implantada em 2013, sendo suas principais características:
+&#10;Curso: Graduação em Ciência da Computação - Bacharelado
+&#10;Carga Horária: 3.410 horas
+&#10;Turno: Integral.
+&#10;Regime: Seriado Anual
+&#10;Vagas: 40
+&#10;Período de integralização: Mínimo de 04 (quatro) e Máximo de 07 (sete) anos.
+&#10;Modalidade: Presencial"/>
+                <Label Text="CONTATOS" TextColor="Black" HorizontalOptions="Center"/>
+                <Label Text="Coordenador: Glauco Carlos Silva – glauco@uenp.edu.br
+&#10;Vice Coordenador: Tamara Angélica Baldo
+&#10;Coordenador de Estágio: Daniela de Freitas Guilhermino Trindade – danielaf@uenp.edu.br
+&#10;Representantes docentes:
+&#10;Caroline Subirá Pereira
+&#10;Fábio de Sordi Júnior
+&#10;Marcio Massashiko Hasegawa"/>
+                <Label Text="Fone: (43) 3542-8014"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

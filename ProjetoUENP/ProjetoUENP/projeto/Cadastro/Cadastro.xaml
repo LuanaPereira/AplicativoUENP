@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjetoUENP.projeto.Cadastro.Cadastro" Title="Cadastro">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <DatePicker x:Name="Nascimento" TextColor="#183883"/>
+                <Entry Placeholder="Numero de Matrícula" x:Name="NumMatricula" TextColor="#183883"/>
+                <Picker x:Name="Curso" Title="Curso" TextColor="#183883">
+                    <Picker.Items>
+                        <x:String>Administração</x:String>
+                        <x:String>Agronomia</x:String>
+                        <x:String>Ciência da Computação</x:String>
+                        <x:String>Ciências Biológicas</x:String>
+                        <x:String>Ciências Contábies</x:String>
+                        <x:String>Ciências Econômicas</x:String>
+                        <x:String>Computação</x:String>
+                        <x:String>Direito</x:String>
+                        <x:String>Educação Física</x:String>
+                        <x:String>Enfermagem</x:String>
+                        <x:String>Filosofia</x:String>
+                        <x:String>Fisioterapia</x:String>
+                        <x:String>Geografia</x:String>
+                        <x:String>História</x:String>
+                        <x:String>Letras Espanhol</x:String>
+                        <x:String>Letras Inglês</x:String>
+                        <x:String>Medicina Veterinária</x:String>
+                        <x:String>Matemática</x:String>
+                        <x:String>Odontologia</x:String>
+                        <x:String>Pedagogia</x:String>
+                        <x:String>Sistemas de Infornação</x:String>
+                    </Picker.Items>
+                </Picker>
+                <Picker Title="Turno" x:Name="Turno" TextColor="#183883">
+                    <Picker.Items>
+                        <x:String>Integral</x:String>
+                        <x:String>Matutino</x:String>
+                        <x:String>Noturno</x:String>
+                        <x:String>Vespertino</x:String>
+                    </Picker.Items>
+                </Picker>
+                <Picker Title="Campus" x:Name="Campus" TextColor="#183883">
+                    <Picker.Items>
+                        <x:String>Campus Cornélio Procópio</x:String>
+                        <x:String>Campus Jacarezinho</x:String>
+                        <x:String>Campus Luiz Meneghel</x:String>
+                    </Picker.Items>
+                </Picker>
+                <Entry Placeholder="CPF" x:Name="CPF" TextColor="#183883"/>
+                <Entry Placeholder="Senha" IsPassword="True" x:Name="Senha" TextColor="#183883"/>
+                <Entry Placeholder="Confirmar Senha" IsPassword="True" x:Name="ConfSenha" TextColor="#183883"/>
+                <Button Text="CADASTRO" TextColor="White" BackgroundColor="#183883" Clicked="FazerCadastro"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
